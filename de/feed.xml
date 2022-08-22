@@ -1,0 +1,3529 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://scs.community/feed.xml" rel="self" type="application/atom+xml" /><link href="https://scs.community/" rel="alternate" type="text/html" hreflang="de" /><updated>2022-08-22T13:43:45+00:00</updated><id>https://scs.community/feed.xml</id><title type="html">Sovereign Cloud Stack</title><subtitle>Sovereign Cloud Stack (SCS) is a network of existing and future providers of standardized sovereign cloud and container infrastructure to join forces in defining, implementing and operating a fully open, federated, compatible platform. By joining forces, the platform can support a healthy ecosystem for service and application developers and strengthen the digitalization efforts in Europe without creating large risks to lose control over the technology and the data.</subtitle><entry><title type="html">Community Triathlon 2022</title><link href="https://scs.community/2022/08/18/community-triathlon-2022/" rel="alternate" type="text/html" title="Community Triathlon 2022" /><published>2022-08-18T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/08/18/community-triathlon-2022</id><content type="html" xml:base="https://scs.community/2022/08/18/community-triathlon-2022/"><![CDATA[<p>Community,</p>
+
+<p>remember when we gathered for a <a href="https://scs.community/2021/09/29/run2021/">Community Run last year</a>?
+More than thirty members of our community competed in a 10K race during the autumn’s
+<a href="https://laufcampus-runningdays.com/en/">Running Days</a>. We have proven that Sovereign Cloud Stack
+is running both — on the ground and in the cloud. Thank you for participating in this first
+athletic event within our community!</p>
+
+<h2 id="its-that-time-again">It’s that time again!</h2>
+
+<p>Yes, exactly – it’s happening again! We kindly invite you to participate in our upcoming
+<strong>Community Triathlon</strong> this year. Let’s prove once again that we not only perform
+exceptionally well as technical squads, but also as sports teams.</p>
+
+<div class="row justify-content-center my-3">
+  <div class="figure col-lg-8 col-12">
+    <a href="/assets/images/triathlon2022/banner-558b1022e11809711ed707dbfe6fae14a09a1af9fe42026444fe5544d7c9b0e6832003daafba6203e0c4a752279b477851127be7d9b7a11b7c11c09bf1377456.jpg">
+      <img class="figure-img w-100" integrity="sha512-VYsQIuEYCXEe1wfb/m+uFKCaGvn+QgJkRP5VRNfJsOaDIAPar7piA+DEp1Inm0d4URJ759m3oRt8EcCb8Td0Vg==" crossorigin="anonymous" src="/assets/images/triathlon2022/banner-558b1022e11809711ed707dbfe6fae14a09a1af9fe42026444fe5544d7c9b0e6832003daafba6203e0c4a752279b477851127be7d9b7a11b7c11c09bf1377456.jpg" />
+    </a>
+  </div>
+</div>
+
+<h3 id="the-triathlon">The triathlon</h3>
+
+<p>Our triathlon will take place from <strong>October 1 to October 10</strong>. During this time, the
+competing teams engage in the disciplines of running, swimming and cycling.
+Each team must consist of at least three people. The best time in each discipline
+will be counted towards the team’s overall time.</p>
+
+<div class="row justify-content-center">
+  <div class="col-md-6 col-lg-3 mb-4">
+    <div class="card border-0 shadow h-100">
+      <img class="card-img-top img-fluid" style="width: 100%; max-height: 20vh; object-fit: cover; object-position: center;" integrity="sha512-dEeV699Ji10Erff6E14K4GSXg8CraUvMmq7C4KHsTGYVtFRZrJYwQJPCaRrBUtcg03p7/6g4mZDs8ilqK5uuew==" crossorigin="anonymous" src="/assets/c5b7f6-ad177eea5c0b3f31acbf58d84b18aa6d6a089e6fdc29395e5b798f0184be319e7718ff75833659bdb8df53710b815dfaadec12cfed9fd57bfeb181d178d528fe.webp" />
+      <div class="card-top-border mint"></div>
+      <div class="card-body">
+        <h4 class="card-title">Running</h4>
+        <p class="card-text">
+          Run 10 kilometers in one go
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-3 mb-4">
+    <div class="card border-0 shadow h-100">
+      <img class="card-img-top img-fluid" style="width: 100%; max-height: 20vh; object-fit: cover; object-position: center;" integrity="sha512-s8kmD0fmGCAKfEHVfOKx7hxBcaUf3qAVOrqYECspXwPsrTon6I9Dm8yQmE57OBbA9AezXusVgMqMCoc6kkYlHA==" crossorigin="anonymous" src="/assets/3254ae-5a5145ffe7ef222cdbd3c6f24ca5a69860d36e4d1930d2ee16f8f0013000cdfd265c5e79cd38425fe5d91daa84a2736f195097735a6e4d1b220080496032e412.webp" />
+      <div class="card-top-border blue"></div>
+      <div class="card-body">
+        <h4 class="card-title">Swimming</h4>
+        <p class="card-text">
+          Swim 1.5 kilometer in one go
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 col-lg-3 mb-4">
+    <div class="card border-0 shadow h-100">
+      <img class="card-img-top img-fluid" style="width: 100%; max-height: 20vh; object-fit: cover; object-position: center;" integrity="sha512-wFFUTlwEVffxdThGQFKsWR7Lz7hRYkoyXQp1/mDw9+mTj5joI1wxW6kTx5Lt23mGe5UHHCw4I03l7MYfOeMlYw==" crossorigin="anonymous" src="/assets/d5d5b1-96490d2505304e0d77159d9dabc4eb7a7cc01e1f2388e6e6a83a07608e663e00e6204006a74db3a78fe41f3b0fdc66cbb2fe18ed22c1e8f00ef76a61c426ca77.webp" />
+      <div class="card-top-border blue"></div>
+      <div class="card-body">
+        <h4 class="card-title">Cycling</h4>
+        <p class="card-text">
+          Cycle 40 kilometers in one go
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p>You can choose which of the disciplines you like most and how you want to distribute
+them among your team. However, each person may only check in one result for your team’s
+overall score.</p>
+
+<p>Our event is a distributed event. Thus, you can run, swim or cycle wherever you
+prefer, or – if you’re up to – your team can compete together in the various disciplines.</p>
+
+<h3 id="individual-rankings-and-other-disciplines">Individual rankings and other disciplines</h3>
+
+<p>As we did last year, we will again honor your individual performance in
+the disciplines of running, swimming and/or cycling. In addition, there will be a special
+classification in the discipline of walking.</p>
+
+<div class="row my-3 justify-content-center">
+  <div class="col-md-6 col-lg-3">
+    <div class="card border-0 shadow h-100">
+      <img class="card-img-top img-fluid" style="width: 100%; max-height: 20vh; object-fit: cover; object-position: center;" integrity="sha512-dw7yWRZvWmuZQSi5QTurT7z5Bm2YLod1LwtZ8xUXGEtULRxIQmGhetsR8FkVT/GjYPSbHhztD5s1sw1NO4iDaw==" crossorigin="anonymous" src="/assets/df4746-2df44824ff88bd6504cc35d0c2e668a95f8bc97825ff2468d4fc2e586c19d206a32f75892c6d3f72699f08a9611d06508481e735950220f78f9951de31337350.webp" />
+      <div class="card-top-border mint"></div>
+      <div class="card-body">
+        <h4 class="card-title">Walking</h4>
+        <p class="card-text">
+          Walk 30 kilometers in one go
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3 id="get-your-swag-and-sign-up">Get your swag and sign up</h3>
+
+<p>Like last year there will be shirts for our participants. Sign up now for our Community Triathlon,
+availability of our goodies package is limited. We would like to thank <a href="https://b1-systems.de/">B1 Systems GmbH</a>
+and <a href="https://www.univention.de/">Univention GmbH</a> for making the shirts possible this year!</p>
+
+<div class="d-grid gap-2 col-4 mx-auto my-4">
+<a href="https://ms.scs.sovereignit.de/nextcloud/apps/forms/oZfP4N9feLBTT987" class="btn btn-secondary btn-lg">Sign up</a>
+</div>
+
+<h3 id="contact-us">Contact us</h3>
+
+<p>If you need any further information, please contact <a href="https://scs.community/itrich">Eduard</a> or <a href="https://scs.community/hollery">Bianca</a> – they’ll be happy to help you.</p>]]></content><author><name>[&quot;Eduard Itrich&quot;, &quot;Bianca Hollery&quot;]</name></author><summary type="html"><![CDATA[Community,]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/triathlon2022/banner.jpg" /><media:content medium="image" url="https://scs.community/triathlon2022/banner.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SCS Infrastructure KeylessGo</title><link href="https://scs.community/2022/08/17/osism-nbde-install/" rel="alternate" type="text/html" title="SCS Infrastructure KeylessGo" /><published>2022-08-17T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/08/17/osism-nbde-install</id><content type="html" xml:base="https://scs.community/2022/08/17/osism-nbde-install/"><![CDATA[<h2 id="nbde--network-bound-disk-encryption">NBDE – <em>Network Bound Disk Encryption</em></h2>
+
+<figure class="figure mx-auto d-block" style="width:40%">
+  <a href="/assets/images/blog/clevis-tang-pin-cd2fd1fbd37f1750d08106e51e3ef84a958da871d128701ac29224baf62184977a77309e1a0c3d533dd5b0edf65aa2315ec8059cc1a35e4ce52fb247f3ed6d62.png">
+    <img class="figure-img w-100" integrity="sha512-zS/R+9N/F1DQgQblHj74SpWNqHHRKHAawpIkuvYhhJd6dzCeGgw9Uz3VsO32WqIxXsgFnMGjXkzlL7JH8+1tYg==" crossorigin="anonymous" src="/assets/images/blog/clevis-tang-pin-cd2fd1fbd37f1750d08106e51e3ef84a958da871d128701ac29224baf62184977a77309e1a0c3d533dd5b0edf65aa2315ec8059cc1a35e4ce52fb247f3ed6d62.png" />
+  </a>
+</figure>
+
+<blockquote>
+  <p>As an Operator i want to be sure that storage’s is encrypted, as
+a DevOps i think it is hard to integrated with Automation.</p>
+</blockquote>
+
+<p>This was the sparking intention to integrate NBDE in OSISM.</p>
+
+<p>Network Bound Disk Encryption is a method to automatically handle LUKS for
+bare metal system in location such as data centers. Its purpose is to protect
+against unauthorized access to data on storage devices in case of loss or vendor
+lifecycle management.</p>
+
+<p>The involved components Luks, Clevis and Tang in one figure:</p>
+
+<figure class="figure mx-auto d-block" style="width:70%">
+  <a href="/assets/images/blog/clevis_boot_procedure-1c4fa7af0f5b2e4147a688753717505733e6ee4186e3eca4b538e17d26fcfe4e119b81e191cff5309feb08b3cdce9a98f6591f36d729c615123cedc742eb4702.png">
+    <img class="figure-img w-100" integrity="sha512-HE+nrw9bLkFHpoh1NxdQVzPm7kGG4+yktTjhfSb8/k4Rm4Hhkc/1MJ/rCLPNzpqY9lkfNtcpxhUSPO3HQutHAg==" crossorigin="anonymous" src="/assets/images/blog/clevis_boot_procedure-1c4fa7af0f5b2e4147a688753717505733e6ee4186e3eca4b538e17d26fcfe4e119b81e191cff5309feb08b3cdce9a98f6591f36d729c615123cedc742eb4702.png" />
+  </a>
+</figure>
+
+<h3 id="jose"><a href="https://jose.readthedocs.io/">JOSE</a></h3>
+<p>is the Javascript Object Signing and Encryption Framework.
+In context of NBDE it uses an RSA based encryption preconfigure
+part to solve the hen and egg problem.</p>
+
+<h3 id="clevis"><a href="https://github.com/latchset/clevis">Clevis</a></h3>
+<p>is a JOSE based pluggable framework which automatically handles
+LUKS encryption locally inside the boot procedure and is able to
+handle network base encryption or combine it with other methods.</p>
+
+<h3 id="tang"><a href="https://github.com/latchset/tang">Tang</a></h3>
+<p>itself is a small webserver with the JOSE library. The tang protocol 
+relies on the JSON Object Signing and Encryption (JOSE) standards. In tang 
+protocol is every message a valid JOSE object.</p>
+
+<h3 id="build-a-encrypted-base-image"><a href="https://docs.osism.tech/configuration/environments/infrastructure/nbde.html#build-an-encrypted-image">Build a encrypted base image</a></h3>
+<p>As a first step, we build an image with a preconfigured LUKS encryption
+and password. Inside the images is a dropbear-ssh server preconfigured with
+a corresponding <code class="language-plaintext highlighter-rouge">authorized_key</code> file.</p>
+
+<h3 id="prebooting-step">Prebooting step</h3>
+<p>In the second step within the boot phase we now access the preconfigured ssh server
+with the particular ssh key. This part will be later removed from installation, because an co-existing
+installation is not possible.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+Listening on LPF/ens3/fa:16:3e:12:77:28
+Sending on   LPF/ens3/fa:16:3e:12:77:28
+Sending on   Socket/fallback
+DHCPDISCOVER on ens3 to 255.255.255.255 port 67 interval 3 <span class="o">(</span><span class="nv">xid</span><span class="o">=</span>0xea981b1a<span class="o">)</span>
+DHCPOFFER of 10.7.8.20 from 10.7.8.1
+DHCPREQUEST <span class="k">for </span>10.7.8.20 on ens3 to 255.255.255.255 port 67 <span class="o">(</span><span class="nv">xid</span><span class="o">=</span>0x1a1b98ea<span class="o">)</span>
+DHCPACK of 10.7.8.20 from 10.7.8.1 <span class="o">(</span><span class="nv">xid</span><span class="o">=</span>0xea981b1a<span class="o">)</span>
+bound to 10.7.8.20 <span class="nt">--</span> renewal <span class="k">in </span>16380 seconds.
+
+cryptsetup: luksroot: <span class="nb">set </span>up successfully
+<span class="k">done</span><span class="nb">.</span>
+</code></pre></div></div>
+
+<h3 id="init-clevis-and-tang">Init clevis and tang</h3>
+
+<p>The second step is to install the Clevis Tang “PIN”</p>
+
+<p>That means Clevis requests a private key from Tang and signs it with a local blended key, which is new encryption key. This is used as new Luks meta information to create a keyslot in Luks table.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="nv">$ </span>osism apply clevis
+
+PLAY <span class="o">[</span><span class="nb">test</span><span class="o">]</span> <span class="k">**********************************************************************************************************************************************************</span>
+
+TASK <span class="o">[</span>Gathering Facts] <span class="k">***********************************************************************************************************************************************</span>
+ok: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Gather variables <span class="k">for </span>each operating system] <span class="k">***********************************************************************************************************</span>
+ok: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Include distribution specific package tasks] <span class="k">**********************************************************************************************************</span>
+included: /ansible-collection-commons/roles/clevis/tasks/install-Debian.yml <span class="k">for </span>10.7.8.20
+
+TASK <span class="o">[</span>clevis : Wait <span class="k">for </span>apt lock] <span class="k">************************************************************************************************************************************</span>
+ok: <span class="o">[</span>10.7.8.20] <span class="o">=&gt;</span> <span class="o">(</span><span class="nv">item</span><span class="o">=</span>lock<span class="o">)</span>
+ok: <span class="o">[</span>10.7.8.20] <span class="o">=&gt;</span> <span class="o">(</span><span class="nv">item</span><span class="o">=</span>lock-frontend<span class="o">)</span>
+
+TASK <span class="o">[</span>clevis : Install clevis packages] <span class="k">******************************************************************************************************************************</span>
+changed: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Install tang encryption] <span class="k">******************************************************************************************************************************</span>
+included: /ansible-collection-commons/roles/clevis/tasks/create-tangcrypt.yml <span class="k">for </span>10.7.8.20
+
+TASK <span class="o">[</span>clevis : Remove dropbear ssh initramfs packages] <span class="k">***************************************************************************************************************</span>
+changed: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Remove dropbear artefacts] <span class="k">****************************************************************************************************************************</span>
+ok: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Check <span class="k">if </span>disk /dev/sda6 already <span class="nb">bind </span>to tang] <span class="k">*********************************************************************************************************</span>
+fatal: <span class="o">[</span>10.7.8.20]: FAILED! <span class="o">=&gt;</span> <span class="o">{</span><span class="s2">"changed"</span>: <span class="nb">false</span>, <span class="s2">"cmd"</span>: <span class="o">[</span><span class="s2">"clevis"</span>, <span class="s2">"luks"</span>, <span class="s2">"list"</span>, <span class="s2">"-d"</span>, <span class="s2">"/dev/sda6"</span>, <span class="s2">"-s"</span>, <span class="s2">"2"</span><span class="o">]</span>, <span class="s2">"delta"</span>: <span class="s2">"0:00:00.137538"</span>, <span class="s2">"end"</span>: <span class="s2">"2022-08-16 15:02:16.298475"</span>, <span class="s2">"msg"</span>: <span class="s2">"non-zero return code"</span>, <span class="s2">"rc"</span>: 1, <span class="s2">"start"</span>: <span class="s2">"2022-08-16 15:02:16.160937"</span>, <span class="s2">"stderr"</span>: <span class="s2">""</span>, <span class="s2">"stderr_lines"</span>: <span class="o">[]</span>, <span class="s2">"stdout"</span>: <span class="s2">""</span>, <span class="s2">"stdout_lines"</span>: <span class="o">[]}</span>
+...ignoring
+
+TASK <span class="o">[</span>clevis : Prepare clevis environment] <span class="k">***************************************************************************************************************************</span>
+changed: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Get adv handshake from tang server] <span class="k">*******************************************************************************************************************</span>
+changed: <span class="o">[</span>10.7.8.20]
+
+TASK <span class="o">[</span>clevis : Insert the keyfile <span class="k">for </span>luks unlock] <span class="k">*******************************************************************************************************************</span>
+changed: <span class="o">[</span>10.7.8.20]
+
+RUNNING HANDLER <span class="o">[</span>clevis : Update initramfs] <span class="k">**************************************************************************************************************************</span>
+ok: <span class="o">[</span>10.7.8.20]
+
+RUNNING HANDLER <span class="o">[</span>clevis : Enable clevis-luks-askpass.path service] <span class="k">***************************************************************************************************</span>
+ok: <span class="o">[</span>10.7.8.20]
+
+RUNNING HANDLER <span class="o">[</span>clevis : Chain tang pin] <span class="k">****************************************************************************************************************************</span>
+changed: <span class="o">[</span>10.7.8.20]
+
+RUNNING HANDLER <span class="o">[</span>clevis : Enable tang boot environment] <span class="k">**************************************************************************************************************</span>
+
+
+
+</code></pre></div></div>
+
+<p><em>What is happening within the Tang service …</em></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+Jul 20 11:53:10 tang-server tangd[54307]: 10.7.8.20 GET /adv <span class="o">=&gt;</span> 200 <span class="o">(</span>src/tangd.c:82<span class="o">)</span>
+Jul 20 11:53:10 tang-server systemd[1]: tangd@3-10.7.8.68:1080-10.7.8.20:34082.service: Succeeded.
+
+</code></pre></div></div>
+<p><em>and get the advertisement, the reply message contains a JWS-signed JWKSet</em></p>
+
+<p><em>and on the bare metal server ?</em></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="nv">$ </span>cryptsetup luksDump /dev/sda1
+
+2: tang <span class="s1">'{"url":"http://10.7.8.68:1080"}'</span>
+
+        Tokens:
+        0: clevis
+        Keyslot:  2
+
+</code></pre></div></div>
+
+<p>The tang protocol implements the McCallum-Relyea exchange. This process is very familiar with ssh authentication. 
+Now the “PIN” is bound to the Tang service. After reboot the server will request with the clevis-initramfs embbed client the network Tang service.
+If the Clevis Tang advertised signing JWK, short “PIN” is valid, the reboot will continue.</p>
+
+<p>The server is now booting with NBDE, see the successful Tang server logs *</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+Aug 16 13:08:11 tang-server tangd[157304]: 10.7.8.20 POST /rec/ebTVn9gtMeD-RV6Ux4DeCiSpff0 <span class="o">=&gt;</span> 200 <span class="o">(</span>src/tangd.c:165<span class="o">)</span>
+Aug 16 13:08:11 tang-server systemd[1]: tangd@6-10.7.8.68:1080-10.7.8.20:40956.service: Succeeded.
+
+</code></pre></div></div>
+
+<p>In SCS stacks it is now able to activate NBDE for bare metal nodes like control, compute, network and storage nodes!</p>]]></content><author><name>[&quot;Mathias Fechner&quot;]</name></author><summary type="html"><![CDATA[NBDE – Network Bound Disk Encryption]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/padlock.jpg" /><media:content medium="image" url="https://scs.community/blog/padlock.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Introducing github-manager for consistent repository and organization management</title><link href="https://scs.community/tech/2022/08/16/github-manager/" rel="alternate" type="text/html" title="Introducing github-manager for consistent repository and organization management" /><published>2022-08-16T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/tech/2022/08/16/github-manager</id><content type="html" xml:base="https://scs.community/tech/2022/08/16/github-manager/"><![CDATA[<p>Thanks to the preliminary work from our friends at <a href="https://github.com/opentelekomcloud">OTC</a>
+and the extensive support by <a href="https://github.com/tibeer">Tim</a> from <a href="https://github.com/osism">OSISM GmbH</a>,
+we’re introducing a new way to manage our repositories and our <a href="https://github.com/SovereignCloudStack">Sovereign Cloud Stack organization</a>
+on GitHub.</p>
+
+<h2 id="why">Why?</h2>
+
+<p>As our project progresses and the community grows, so does the number of repositories
+and members of our organization on GitHub. Keeping a consistent set of protection and
+access rules can be hard, especially if we want to foster a self-organizing community.</p>
+
+<p>Using a gitops-like approach helps us to address this challenge in several ways:</p>
+
+<ul>
+  <li>Branch protection rules are enforced in a consistent way among all our repositories
+and can be managed at one central place.</li>
+  <li>Write and access rules can be configured in a transparent and consistent way for
+all our repositories.</li>
+  <li>Users can join our GitHub organization by simply opening a pull request and thus
+we enable a self-service on-boarding experience.</li>
+  <li>Define a consistent set of labels for all our repositories. This helps us to make
+extensive use of the GitHub project board feature.</li>
+  <li>We have a transparent audit log of what has been changed within our organization.</li>
+</ul>
+
+<h2 id="how">How?</h2>
+
+<p>To achieve this, we’re making use of the awesome <a href="https://github.com/opentelekomcloud/ansible-collection-gitcontrol"><code class="language-plaintext highlighter-rouge">gitcontrol Ansible collection</code></a>
+by the <a href="https://github.com/opentelekomcloud">OTC</a> team.</p>
+
+<p>Both, configuration and workflows can be found at the <a href="https://github.com/SovereignCloudStack/github-manager"><code class="language-plaintext highlighter-rouge">github-manager</code></a> repository.
+This will be the single source of truth to manage our repositories and GitHub organization.</p>
+
+<div class="alert alert-warning" role="alert">
+  <p><b>For this to work properly, some rules must be followed:</b></p>
+  <ul>
+    <li>After creating or renaming a repository, please define this new repository at <a href="https://github.com/SovereignCloudStack/github-manager/tree/main/orgs/SovereignCloudStack/repositories"><code class="language-plaintext highlighter-rouge">github-manager/orgs/SovereignCloudStack/repositories/</code></a></li>
+    <li>After deleting a repository, please delete the corresponding file at <a href="https://github.com/SovereignCloudStack/github-manager/tree/main/orgs/SovereignCloudStack/repositories"><code class="language-plaintext highlighter-rouge">github-manager/orgs/SovereignCloudStack/repositories/</code></a></li>
+    <li>Don’t change the settings (e.g. access rules, description, features, etc.) of our repositories manually, but define them in the corresponding files</li>
+    <li>Don’t change protection rules manually, but configure them at <a href="https://github.com/SovereignCloudStack/github-manager/tree/main/templates"><code class="language-plaintext highlighter-rouge">github-manager/templates/</code></a></li>
+    <li>Don’t invite new members manually to our organization, but add them to <a href="https://github.com/SovereignCloudStack/github-manager/blob/main/orgs/SovereignCloudStack/people/members.yml"><code class="language-plaintext highlighter-rouge">github-manager/blob/main/orgs/SovereignCloudStack/people/members.yml</code></a></li>
+    <li>Don’t create new teams, but add them to <a href="https://github.com/SovereignCloudStack/github-manager/blob/main/orgs/SovereignCloudStack/teams/members.yml"><code class="language-plaintext highlighter-rouge">github-manager/orgs/SovereignCloudStack/teams/members.yml</code></a></li>
+    <li>Don’t add milestones and labels manually, but add them to <a href="https://github.com/SovereignCloudStack/github-manager/blob/main/config.yaml"><code class="language-plaintext highlighter-rouge">github-manager/config.yaml</code></a></li>
+  </ul>
+</div>
+
+<h2 id="some-caveats-and-further-hints">Some caveats and further hints</h2>
+
+<p>The <code class="language-plaintext highlighter-rouge">github-manager</code> workflow has some limitations that need to be considered.</p>
+
+<p>To be able to manage the GitHub organization, the workflow needs a valid <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">PAT</a> of a organization owner. This is currently only the case for Eduard. The SIG Community is working on extending the workflow to add multiple PAT.
+Until then, only Eduard is currently able to trigger the workflow by merging into the <code class="language-plaintext highlighter-rouge">main</code> branch or dispatching it manually.</p>
+
+<p>In the transition to the <code class="language-plaintext highlighter-rouge">github-manager</code> we also renamed all old <code class="language-plaintext highlighter-rouge">master</code> branches to <code class="language-plaintext highlighter-rouge">main</code>. To switch to the new default branch, please do the following in the corresponding repositories:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-m</span> master main
+git fetch origin
+git branch <span class="nt">-u</span> origin/main main
+git remote set-head origin <span class="nt">-a</span>
+</code></pre></div></div>
+
+<h2 id="next-steps">Next steps</h2>
+
+<p>This was only a first step. In the following, we will discuss how we want to grant
+write and access rights within our community and which protection rules are reasonable
+to enforce among our repositories.</p>
+
+<p>If you have any questions or feedback, you can always contact <a href="https://scs.community/itrich">Eduard</a>
+or reach out to the <a href="https://scs.community/contribute/">SIG Community</a> that meets biweekly
+Wednesday at 11:05 CEST.</p>]]></content><author><name>[&quot;Tim Beermann&quot;, &quot;Eduard Itrich&quot;]</name></author><category term="tech" /><summary type="html"><![CDATA[Thanks to the preliminary work from our friends at OTC and the extensive support by Tim from OSISM GmbH, we’re introducing a new way to manage our repositories and our Sovereign Cloud Stack organization on GitHub.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/github.jpg" /><media:content medium="image" url="https://scs.community/blog/github.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Improving and assuring the overall quality of the foundation of SCS</title><link href="https://scs.community/2022/07/14/osism-ansible-lint-quality/" rel="alternate" type="text/html" title="Improving and assuring the overall quality of the foundation of SCS" /><published>2022-07-14T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/07/14/osism-ansible-lint-quality</id><content type="html" xml:base="https://scs.community/2022/07/14/osism-ansible-lint-quality/"><![CDATA[<h2 id="why-this-is-done">Why this is done?</h2>
+
+<p>Uniform and well readable code increases readability, understandability, security, quality and reusability. Of course, this is nothing new for many. However, since every engineer and programmer has his own writing style and there are no clear guidelines everywhere, like with PEP8 for Python, regarding the order, especially with Ansible, it is often difficult to get uniform code.
+Furthermore, we found that it can be very difficult to review code that has different structures and writing styles. For these reasons, we thought about how to achieve code consistency and make it last.</p>
+
+<h2 id="what-is-done">What is done?</h2>
+
+<p>Now there is already a tool on the market that is supposed to do exactly that: Check code for its security and quality. This tool is Ansible Lint <a href="https://github.com/ansible/ansible-lint">https://github.com/ansible/ansible-lint</a>. In general, Ansible Lint already does exactly what we expect, but with a few limitations. Since it is possible to create custom rules there and load them quite easily, this was our way to the goal. We have previously defined within the OSISM project <a href="https://github.com/osism">https://github.com/osism</a> what exactly we expect from Ansible Lint, i.e. what it should check. We looked at what suggestions of sequences are shown in the Ansible documentation and what styles are the most common practice to use it as defaults for us. After that, we looked at the existing rules and then extended them with the features we needed. For us, for example, the order of the keywords was very important. Ansible Lint already has a rule that checks the position of the <em>name attribute</em>, but none in which you can define a list for yourself to check the order of the most important and security-critical attributes more precisely. Security-critical code is easier to keep track of, if every attribute is in the same position, since you can then very quickly detect if a value has been changed somewhere that opens doors and gates for attackers. However, this doesn’t mean that critical code can’t be loaded, but it makes it easier to check it for yourself. So we looked at Ansible Lint’s <strong>key-order</strong> rule and extended it to pass a list with the order of the keywords:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+    <span class="kn">import</span> <span class="nn">sys</span>
+    <span class="kn">import</span> <span class="nn">os</span>
+    <span class="kn">import</span> <span class="nn">yaml</span>
+    <span class="kn">from</span> <span class="nn">typing</span> <span class="kn">import</span> <span class="n">Any</span><span class="p">,</span> <span class="n">Dict</span><span class="p">,</span> <span class="n">Optional</span><span class="p">,</span> <span class="n">Union</span>
+
+    <span class="kn">from</span> <span class="nn">ansiblelint.file_utils</span> <span class="kn">import</span> <span class="n">Lintable</span>
+    <span class="kn">from</span> <span class="nn">ansiblelint.rules</span> <span class="kn">import</span> <span class="n">AnsibleLintRule</span>
+
+
+    <span class="k">class</span> <span class="nc">OsismAttributeOrderRule</span><span class="p">(</span><span class="n">AnsibleLintRule</span><span class="p">):</span>
+        <span class="s">"""Ensure specific order of attributes in mappings."""</span>
+
+        <span class="nb">id</span> <span class="o">=</span> <span class="s">"osism-attribute-order"</span>
+        <span class="n">shortdesc</span> <span class="o">=</span> <span class="n">__doc__</span>
+        <span class="n">severity</span> <span class="o">=</span> <span class="s">"LOW"</span>
+        <span class="n">tags</span> <span class="o">=</span> <span class="p">[</span><span class="s">"formatting"</span><span class="p">,</span> <span class="s">"experimental"</span><span class="p">]</span>
+        <span class="n">version_added</span> <span class="o">=</span> <span class="s">"v6.3.0"</span>
+        <span class="n">needs_raw_task</span> <span class="o">=</span> <span class="bp">True</span>
+
+        <span class="k">def</span> <span class="nf">matchtask</span><span class="p">(</span>
+            <span class="bp">self</span><span class="p">,</span> <span class="n">task</span><span class="p">:</span> <span class="n">Dict</span><span class="p">[</span><span class="nb">str</span><span class="p">,</span> <span class="n">Any</span><span class="p">],</span> <span class="nb">file</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="n">Lintable</span><span class="p">]</span> <span class="o">=</span> <span class="bp">None</span>
+        <span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Union</span><span class="p">[</span><span class="nb">bool</span><span class="p">,</span> <span class="nb">str</span><span class="p">]:</span>
+
+            <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="sa">f</span><span class="s">"</span><span class="si">{</span><span class="n">os</span><span class="p">.</span><span class="n">getcwd</span><span class="p">()</span><span class="si">}</span><span class="s">/.ansible-lint-rules/osism_attribute_order_list.yaml"</span><span class="p">,</span> <span class="s">'r'</span><span class="p">)</span> <span class="k">as</span> <span class="n">fileStream</span><span class="p">:</span>
+                <span class="k">try</span><span class="p">:</span>
+                    <span class="n">osism_attribute_order_list</span> <span class="o">=</span> <span class="n">yaml</span><span class="p">.</span><span class="n">safe_load</span><span class="p">(</span><span class="n">fileStream</span><span class="p">)</span>
+                <span class="k">except</span> <span class="n">yaml</span><span class="p">.</span><span class="n">YAMLError</span> <span class="k">as</span> <span class="n">exception</span><span class="p">:</span>
+                    <span class="k">print</span><span class="p">(</span><span class="n">exception</span><span class="p">)</span>
+                    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+
+            <span class="n">raw_task</span> <span class="o">=</span> <span class="n">task</span><span class="p">[</span><span class="s">"__raw_task__"</span><span class="p">]</span>
+            <span class="n">counter</span> <span class="o">=</span> <span class="mi">0</span>
+            <span class="n">counter_prev</span> <span class="o">=</span> <span class="mi">0</span>
+            <span class="k">for</span> <span class="n">attribute</span> <span class="ow">in</span> <span class="n">osism_attribute_order_list</span><span class="p">[</span><span class="s">"osism_attribute_order_list"</span><span class="p">]:</span>
+                <span class="k">if</span> <span class="n">attribute</span> <span class="ow">in</span> <span class="n">raw_task</span><span class="p">:</span>
+                    <span class="n">attribute_list</span> <span class="o">=</span> <span class="p">[</span><span class="o">*</span><span class="n">raw_task</span><span class="p">]</span>
+                    <span class="n">counter</span> <span class="o">=</span> <span class="n">attribute_list</span><span class="p">.</span><span class="n">index</span><span class="p">(</span><span class="n">attribute</span><span class="p">)</span>
+                    <span class="k">if</span> <span class="n">counter</span> <span class="o">&lt;</span> <span class="n">counter_prev</span><span class="p">:</span>
+                        <span class="k">return</span> <span class="sa">f</span><span class="s">"</span><span class="si">{</span><span class="n">attribute_list</span><span class="p">[</span><span class="n">counter_prev</span><span class="p">]</span><span class="si">}</span><span class="s"> is not at the right place"</span>
+                    <span class="k">else</span><span class="p">:</span>
+                        <span class="n">counter_prev</span> <span class="o">=</span> <span class="n">counter</span>
+            <span class="k">return</span> <span class="bp">False</span>
+</code></pre></div></div>
+
+<p>Now you can store the order of the keywords which fits for yourself and your project, Ansible Lint checks them and generates an error in case of a discrepancy:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">osism_attribute_order_list</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="s">name</span>
+    <span class="pi">-</span> <span class="s">become</span>
+    <span class="pi">-</span> <span class="s">when</span>
+</code></pre></div></div>
+
+<p>For many, the topic of Ansible FQCN is still very controversial and unnecessary <a href="https://github.com/ansible/ansible-lint/issues/2050">https://github.com/ansible/ansible-lint/issues/2050</a>. We have decided that we will implement it, because we think the usage of the FQCN´s makes code safer. To check this, we have also extended the Ansible Lint <strong>fqcn-builtins</strong> rule to check a list. In this list you can now define all the collections you want to use, Ansible Lint then checks the code and throws a warning in case of error.</p>
+
+<p>In order to pass these custom rules it is important to save them in the same directory as the .ansible file. The folder should be named <strong>.ansible-lint-rules</strong>. This must then be passed in the <strong>.ansible</strong> with the variable <code class="language-plaintext highlighter-rouge">rulesdir: /path/to/rules</code>. However, you should also take a look at the default rules of Ansible Lint. There are some that really make sense and that we now also use. To activate them, you have to pass this explicitly with the variable <code class="language-plaintext highlighter-rouge">use_default_rules: true</code>. This does not mean that you have to use all default rules. You can exclude rules that are not suitable for you from the check via the skip list or, if you only want to receive a warning, via the warning list.</p>
+
+<p>We have now started to integrate these checks into all our GitHub repositories via GitHub Actions. So that when sources are modified or created in the future, it always complies with our specifications.</p>
+
+<p>You can check a number of security critical aspects with Ansible Lint which does not mean that you are completely protected from everything. Like many other pieces of the puzzle, it only improves security. This in no way replaces the use of other security measures.</p>
+
+<p>For more information on Ansible Lint and its functionality, please look at the documentation: <a href="https://ansible-lint.readthedocs.io/en/latest/">https://ansible-lint.readthedocs.io/en/latest/</a>.</p>]]></content><author><name>[&quot;Ramona Beermann&quot;]</name></author><summary type="html"><![CDATA[Why this is done?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/corrections.jpg" /><media:content medium="image" url="https://scs.community/blog/corrections.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lean SCS Operator Coffee</title><link href="https://scs.community/2022/07/05/lean-scs-operator-coffee/" rel="alternate" type="text/html" title="Lean SCS Operator Coffee" /><published>2022-07-05T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/07/05/lean-scs-operator-coffee</id><content type="html" xml:base="https://scs.community/2022/07/05/lean-scs-operator-coffee/"><![CDATA[<p>Last week we’ve had the second edition of the “Lean SCS Operator Coffee”. This format was sparked
+by the R2 retro we had a while ago. From the community of the SCS Operators came the request to have
+a format where the operators are able to interact and share their experiences in operating SCS
+environments.</p>
+
+<p><img style="width:100%; max-height: 450px; object-fit: cover;" integrity="sha512-iymTuhe8ro4EJbSlWNLGs/xeo4HH2lpxqS1YwnanMsoa9jJ8oluFra4JiHjzLhHZASM48HyLjHlvhdQDrXV2Ow==" crossorigin="anonymous" src="/assets/a48844-d33a5b3b510ffbbc01329aa7a4d9211fc12366c4eb7a2c2f5ca4aae617797c0581a84d97ce3ed4b26f403fbeab52f0e8b3ea0d2f514cddc9a4cd80a3a8dfa212.webp" /></p>
+
+<h2 id="lean-coffee">Lean Coffee?</h2>
+
+<p>How does “a lean coffee look like”?
+Let’s start with this quote from the <a href="http://leancoffee.org">original website</a>:</p>
+
+<blockquote>
+  <p>Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated.</p>
+</blockquote>
+
+<p>Since the SCS community is distributed a remote-friendly way of organizing the Lean SCS Operator coffee
+is anticipated. We chose a simple, yet useful (and open source) emulation of a kanban board: <a href="https://github.com/aliasaria/scrumblr">scrumblr</a>.</p>
+
+<p>While we (the SCS team) organize the lean coffee, the agenda is made by the participants and I only try to moderate the dialogue and keep the discussion going.
+Of course the board we use is <a href="https://scrumblr.ethibox.fr/9ucuscs-lean-coffee">publicly available</a> as well.</p>
+
+<h2 id="osism-ops-tools">osism ops-tools</h2>
+
+<p>The second edition of the Lean SCS Operator Coffee saw a strong participation from the team of <a href="https://www.plusserver.com">PlusServer</a>. The first topic that
+was discussed was their publication of their <a href="https://github.com/plusserver/osism-opstools/">OSISM ops-tools</a>. This contribution to the
+<a href="https://github.com/osism/">OSISM</a> landscape was warmly welcomed. Furthermore it was elaborated on how the process of open sourcing such
+additions be further supported, for example by providing outlines for processes on releasing code from corporations into the open. A typical
+hurdle is choosing the proper license. While this seems trivial for people with a lot of experience in working with open source communities for
+companies starting to venture into this field this is a hurdle to tackle. One idea that I had was to provide the outlines that I’ve previously
+gave colleagues to decide on a licence and incorporate that into our <a href="https://github.com/sovereignCloudStack/docs">scs docs</a>..</p>
+
+<p>Further discussions around osism and the handling of multiple inventories as well as multi-region handling arose and it was concluded that
+a break out hands-on session on that subject together with colleagues from OSISM makes sense. This will be scheduled shortly.</p>
+
+<h2 id="open-operations--lean-coffee">Open Operations @ Lean Coffee</h2>
+
+<p>Since Kurt and I recently presented our <a href="https://www.youtube.com/watch?v=oGuUty7ufN8">view on open operations</a> at the open infra summit in Berlin this subject came up and the
+scepticism towards public health dashboards with great details was discussed. While great detail is helpful for the ones who understand
+the underlying technology these can also be a source for irritation for others. One idea that was discussed was that the <a href="https://github.com/SovereignCloudStack/openstack-health-monitor">OpenStack Health Monitor</a>
+should feature a simple dashboard that abstracts some of the detail and signals via red/orange/green whether metrics are within a certain
+threshold.</p>
+
+<h2 id="next-lean-scs-operator-coffee">Next Lean SCS Operator Coffee?</h2>
+
+<p>The next edition of the Lean SCS Operator Coffee is planned for the 25th of July at 15:05 and will be <a href="https://conf.scs.koeln:8443/SCS-Tech">held on our jitsi</a>.
+All our meetings can be seen <a href="https://scs.community/contribute/">on our public calendar</a>.</p>]]></content><author><name>[&quot;Felix Kronlage-Dammers&quot;]</name></author><summary type="html"><![CDATA[Last week we’ve had the second edition of the “Lean SCS Operator Coffee”. This format was sparked by the R2 retro we had a while ago. From the community of the SCS Operators came the request to have a format where the operators are able to interact and share their experiences in operating SCS environments.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/coffeebeans.png" /><media:content medium="image" url="https://scs.community/blog/coffeebeans.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SCS als Gast beim diesjährigen Parldigi-Dinner in Bern</title><link href="https://scs.community/2022/06/27/parldigi/" rel="alternate" type="text/html" title="SCS als Gast beim diesjährigen Parldigi-Dinner in Bern" /><published>2022-06-27T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/06/27/parldigi</id><content type="html" xml:base="https://scs.community/2022/06/27/parldigi/"><![CDATA[<p>Das diesjährige Parldigi-Dinner der <a href="https://www.parldigi.ch/de/">Parlamentarischen Gruppe Digitale Nachhaltigkeit (Parldigi)</a> 
+stand ganz unter dem Zeichen der <em>digitalen Souveränität</em>. Wir danken Herrn Prof. Dr. Matthias Stürmer und 
+seinem Team für die Organisation dieses gelungenen Abends und für die Möglichkeit, unseren offenen Cloud- und Containerstack vorzustellen.</p>
+
+<p>Der ganze Vortrag findet sich mittlerweile auf <a href="https://www.youtube.com/watch?v=M8FAIpjM6ng">YouTube</a> und bietet
+einen guten Einstieg in die Motivation und die Ziele hinter Sovereign Cloud Stack. Die <a href="https://www.youtube.com/watch?v=Lhzm8gIXja0">anschließende Diskussionsrunde</a> hat eines gezeigt: Der Bedarf an einer souveränen Cloud ist hoch und dass es mehr Bedarf
+als reine “Datenhoheit” und Compliance.</p>
+
+<figure class="figure mx-auto d-block w-75">
+  <a href="https://www.youtube.com/watch?v=M8FAIpjM6ng">
+    <img class="figure-img w-100" integrity="sha512-CazF0j+XMJpPuRawwRKa9lFX4irPYwXQhlTcHnCGtcwtpFJGoWNoaR+hWrFRRhEEppertWr7pqfnT2L0nlqmlw==" crossorigin="anonymous" src="/assets/99c926-90978c9009be6a3a1255d39bd155a044947cb0ff99b234faa4ec02f2be7d8c19b1da2249410339f5063957f4f240ef048035988c50f115a960aba8f503b78b4f.webp" />
+  </a>
+  <figcaption class="figure-caption text-end">Kurt Garloff auf dem diesjärhigen Parldigi-Dinner über digitale Souveränität und den Sovereign Cloud Stack.</figcaption>
+</figure>]]></content><author><name>[&quot;Kurt Garloff&quot;]</name></author><summary type="html"><![CDATA[Das diesjährige Parldigi-Dinner der Parlamentarischen Gruppe Digitale Nachhaltigkeit (Parldigi) stand ganz unter dem Zeichen der digitalen Souveränität. Wir danken Herrn Prof. Dr. Matthias Stürmer und seinem Team für die Organisation dieses gelungenen Abends und für die Möglichkeit, unseren offenen Cloud- und Containerstack vorzustellen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/parldigi.jpg" /><media:content medium="image" url="https://scs.community/blog/parldigi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">OpenInfra Summit 2022 – Class reunion of our community</title><link href="https://scs.community/2022/06/23/this-was-oifsummit2022/" rel="alternate" type="text/html" title="OpenInfra Summit 2022 – Class reunion of our community" /><published>2022-06-23T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/06/23/this-was-oifsummit2022</id><content type="html" xml:base="https://scs.community/2022/06/23/this-was-oifsummit2022/"><![CDATA[<p>Two weeks after this year’s <a href="/de/2022/06/02/scs-at-oifsummit2022/">OpenInfra Summit in Berlin</a>
+we are still overwhelmed by the impressions of those three days at the Berlin Conference Center (bcc).
+With our reference implementation being built upon OpenStack the OpenInfra Summit is the major conference
+for us - obviously we brought our share of talks and contributions to the table as well.</p>
+
+<p>A multitude of great speakers and the overall welcoming and motivating atmosphere made this event unique.
+Many thanks to the whole <a href="https://openinfra.dev/about/staff/">OpenInfra Foundation team</a> who made
+this summit possible and to <a href="https://www.fntech.com/">FNTECH</a> for the successful organization of
+the event. You rock! 🤘</p>
+
+<p>All of the talks at the Summit were recorded and are published. Within the SCS community we assembled a list of
+talks that we thought were really great.</p>
+
+<h2 id="contributions-and-talk-from-the-scs-communtiy">Contributions and talk from the SCS communtiy</h2>
+
+<p>The first day started with keynotes and we were thrilled that PStS Dr. Brantner from the Federal Ministry of economic affairs and climate
+action <a href="https://www.youtube.com/watch?v=ZlPLGmBfaVc&amp;t=4420s">shared her thoughts</a>.
+Eduard had the chance to present our views on <a href="https://www.youtube.com/watch?v=i2hQQFJi3Yo">Digital sovereignty</a> and why open infrastructure
+matters. The subject of digital sovereignty is important - as such Eduard was assigned <a href="https://www.youtube.com/watch?v=Lvz2PcHq0yY">another slot on day two</a>.</p>
+
+<p>Kurt and Felix presented the <a href="https://www.youtube.com/watch?v=oGuUty7ufN8">Open Operations concept</a> - maybe this will become the fifth <em>open paradigm</em>?
+The talk was well received and sparked discussions around the hallway track. There was a forum session on Day three together with the folks from
+<a href="https://www.operate-first.cloud/">Operate First</a> on <em>Open Operations</em> which featured a packed room. We will move this subject further and spark
+more discussions and actions within our community.</p>
+
+<p>The learnings and building blocks from our Special Interest Group Monitoring were presented by Felix and Mathias in their
+talk on <a href="https://www.youtube.com/watch?v=x9lk3Jk15Wc">Observability in OpenStack</a>.</p>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="list-group mb-4">
+		
+		
+		<div class="list-group-item list-group-item-action align-items-start">
+			<div class="d-flex w-100 justify-content-between">
+				<div class="d-flex w-75 flex-column justify-content-start position-relative">
+					<a href="https://www.youtube.com/watch?v=cVXksAxtSbs" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Fearless automation: Deploying OpenStack on top of Kubernetes with YAOOK, How a retailer became a Cloud Provider</a>
+					<p class="mb-1 small fw-light">— Marvin Titus, Felix Hüttner, Jonas Schäfer</p>
+				</div>
+				<div class="d-flex w-25 flex-column justify-content-start text-end position-relative">
+					
+						<a class="mt-1 text-decoration-none text-secondary stretched-link" href="/assets/slides/20220607-OIF-4-235705dbd3b13208d702ee0cceb4aecfaf9e5adb889893e369b97e00b86c041b624df69841c45cb4b689049c95ff375796498eaf76a25144a70355875294f40c.pdf" target="_blank">
+							<i class="fa fa-download my-auto"></i> <small>Folien</small>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="list-group-item list-group-item-action align-items-start">
+			<div class="d-flex w-100 justify-content-between">
+				<div class="d-flex w-75 flex-column justify-content-start position-relative">
+					<a href="https://www.youtube.com/watch?v=i2hQQFJi3Yo" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Digital sovereignty: Why open infrastructure matters</a>
+					<p class="mb-1 small fw-light">— Eduard Itrich</p>
+				</div>
+				<div class="d-flex w-25 flex-column justify-content-start text-end position-relative">
+					
+						<a class="mt-1 text-decoration-none text-secondary stretched-link" href="/assets/slides/20220607-OIF-1-a7a6a4bee7e7e27e472ea8229811c88bdfe8a0d2287de7b7fc4ed6c28d5e0fa46142fbd4dfecc83b67974d9e1f4d40df5183292cbd1b144a4af5c80b0a57ae43.pdf" target="_blank">
+							<i class="fa fa-download my-auto"></i> <small>Folien</small>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="list-group-item list-group-item-action align-items-start">
+			<div class="d-flex w-100 justify-content-between">
+				<div class="d-flex w-75 flex-column justify-content-start position-relative">
+					<a href="https://www.youtube.com/watch?v=oGuUty7ufN8" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">An Open Operations concept</a>
+					<p class="mb-1 small fw-light">— Kurt Garloff, Felix Kronlage-Dammers</p>
+				</div>
+				<div class="d-flex w-25 flex-column justify-content-start text-end position-relative">
+					
+						<a class="mt-1 text-decoration-none text-secondary stretched-link" href="/assets/slides/20220608-OIF-2-aa3da54c07b89e31f15906491e9dfa96f0a669d42795a571c7072ae67888202fb173cc6a1f62ca81b5998683e254d54c2e7b43e3407ba96c8befe27e6550ee42.pdf" target="_blank">
+							<i class="fa fa-download my-auto"></i> <small>Folien</small>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="list-group-item list-group-item-action align-items-start">
+			<div class="d-flex w-100 justify-content-between">
+				<div class="d-flex w-75 flex-column justify-content-start position-relative">
+					<a href="https://www.youtube.com/watch?v=x9lk3Jk15Wc" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Observability in OpenStack: - Learnings and building blocks from the SIG Monitoring at SCS</a>
+					<p class="mb-1 small fw-light">— Mathias Fechner, Felix Kronlage-Dammers</p>
+				</div>
+				<div class="d-flex w-25 flex-column justify-content-start text-end position-relative">
+					
+						<a class="mt-1 text-decoration-none text-secondary stretched-link" href="/assets/slides/20220609-OIF-3-ac95562b80fc26920d2f2b745ac2c5bbb23f0f86cbcd83a02dfefc4a9e0c5cfe6e5f713a50832541b8328f2a6e55b40e69a3c42f27a5098dd71800a16d2b425e.pdf" target="_blank">
+							<i class="fa fa-download my-auto"></i> <small>Folien</small>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="list-group-item list-group-item-action align-items-start">
+			<div class="d-flex w-100 justify-content-between">
+				<div class="d-flex w-75 flex-column justify-content-start position-relative">
+					<a href="https://www.youtube.com/watch?v=eP-uUHelNzk" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Intent-based holistic data center management</a>
+					<p class="mb-1 small fw-light">— Christian Berendt</p>
+				</div>
+				<div class="d-flex w-25 flex-column justify-content-start text-end position-relative">
+					
+						<a class="mt-1 text-decoration-none text-secondary stretched-link" href="/assets/slides/20220608-OIF-5-64c1cd7bd6c51d024ac5b963c406dec75b5f8446fa471535eca4f893255a90d98031e1e958afb7e514a25c75ef5a0a65cf789662a73327a99f83761e4d395155.pdf" target="_blank">
+							<i class="fa fa-download my-auto"></i> <small>Folien</small>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+		
+		</div>
+	</div>
+</div>
+
+<h2 id="further-sessions-and-recordings-worth-seeing">Further sessions and recordings worth seeing</h2>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="list-group mb-4">
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=9QRNEJX3SXQ" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Hardware Onboarding and Burn-in with Ironic in the CERN Data Center</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=vh-Q9HWdYsQ" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Confidential Computing in the Control Plane (case study using Barbican)</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=p2mQeF3gd2Q" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Ghosting the Spectre</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=1zgT_7-QOw8" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Honey, I Blew Up the Cloud</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=Ik9BMkFvsoI" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Past, present and future of the storage in the CERN private cloud</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=dRMpdz1lDH4" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Observability on public clouds</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=OqcnXxTbIxk" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">API Performance</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=RANhjX6-KYE" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">OpenStack Plugin for Vault</a>
+        </div>   
+      </div>
+      
+      <div class="list-group-item list-group-item-action align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+  					<a href="https://www.youtube.com/watch?v=Ujq8I8wPpng?t=432" target="_blank" class="mb-1 text-decoration-none text-body stretched-link">Project Necromancy</a>
+        </div>   
+      </div>
+      
+    </div>
+    </div>
+</div>
+
+<h2 id="gallery">Gallery</h2>
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/20220607_102621-309b320a814ebe41323decb5d178af16b01777ffe8b96ba96a5d4b92593340b29fb52e0995c03b67ca9b7679d7758e399541f737455688baf0d571b5f29b364b.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-MJsyCoFOvkEyPey10XivFrAXd//ouWupal1LklkzQLKftS4JlcA7Z8qbdnnXdY45lUH3N0VWiLrw1XG18ps2Sw==" crossorigin="anonymous" src="/assets/e05ed6-aab497250e054accafefb12a36bc99293a7c2ae913bad79b87a98f95d7f70867dd200bfb42f958c68b7f20e2a6a4e39ea771d1faacce128fbc5849ab51f36139.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/20220609_094617-e9c937c9d18599a5fd5a60e9100472c1fd0930723d09e87aaeba5167256c557dff7cf1ea9454e752685c1cc9205f0d2b1f56ad26212fc1454b1559644993a479.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-6ck3ydGFmaX9WmDpEARywf0JMHI9Ceh6rrpRZyVsVX3/fPHqlFTnUmhcHMkgXw0rH1atJiEvwUVLFVlkSZOkeQ==" crossorigin="anonymous" src="/assets/2c6724-310f2578b67c1308429097a2604bc428f903cfbca6e085b0b315c98107c3919693f87d4e465bfd62a404b58d3bacb300ea4aaf14946256eef3daee339ea82843.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/20220609_111106-266097b675262b205ebf303eeb7561badb06f41bb6edf2e4c6371add2f10a74eedff2480ed547dca0401fdf374113cf160f21d601677952913bbce25369b3cff.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-JmCXtnUmKyBevzA+63VhutsG9Bu27fLkxjca3S8Qp07t/ySA7VR9ygQB/fN0ETzxYPIdYBZ3lSkTu84lNps8/w==" crossorigin="anonymous" src="/assets/ec3746-f1d15b02b0b56fe1adf528798eba1c35d85617227f0254c50f806704db3218570717c7797e27accb399b7d40839593c2238a9b8cda6db2d31c9389405c9e33d8.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/IMG_6555-44f53b5c0d1a53fc62c284dc756e306f534cb31fdbf5d8cf86d92a5076abbb6e0df8b56c04bf02c676842827ae5d618bcb9915eb28c46678d666c86789d3e27d.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-RPU7XA0aU/xiwoTcdW4wb1NMsx/b9djPhtkqUHaru24N+LVsBL8CxnaEKCeuXWGLy5kV6yjEZnjWZshnidPifQ==" crossorigin="anonymous" src="/assets/bd5197-c69551e0d96d32a49162032076df82634607f7ec9d3a334c1ea6ec06ee64747fd8583e91646c3a3ce53aad33bc81dd0e9bf730b81eab7767cd43d8dd56b6a3c0.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/IMG_6565-62573c9a3ce21340b35cc2f9ee5d786cf99ed052df7ee24bdb26ded5c875bffe3e425ce823d51e444faaa24d03ff74ee88dd952253febb5cf24a375a42e23a4d.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-Ylc8mjziE0CzXML57l14bPme0FLffuJL2ybe1ch1v/4+QlzoI9UeRE+qok0D/3TuiN2VIlP+u1zySjdaQuI6TQ==" crossorigin="anonymous" src="/assets/1cadac-4ff8c7be8c099f5ce12051b4bd7f945469f2ebeca1ed164cf7baf4f355b612d2a159d7b9da8ce8b4c1fcacce1478e5ec44448a1867496a348816a11a34d75734.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/IMG_6603-7226f4faf92a8edaa6c37ebc0c9242ddc8e1f34d89bb4e82a10112c5646a50d3c2b3d6e15de53726a207b51c26258f896bc364d693d3e7745369a61aeef631b3.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-cib0+vkqjtqmw368DJJC3cjh802Ju06CoQESxWRqUNPCs9bhXeU3JqIHtRwmJY+Ja8Nk1pPT53RTaaYa7vYxsw==" crossorigin="anonymous" src="/assets/b9d728-872b9e2450c74000669ee74ec149c0082f88dc593764a01bf7ea1f8a151da32d02d89ac336ba14c62b3064872f782bb4f6adfe355a13b027fcf273bcdf4c13c2.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/IMG_6609-b1b3f0efc38183fee8091060fd18fcde749f7c85ebad865fd9eb702d03cec73ff68496e0abb23f9aac64b73d1182e0d5d93b957900aafd3642dd3bc2739de0e4.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-sbPw78OBg/7oCRBg/Rj83nSffIXrrYZf2etwLQPOxz/2hJbgq7I/mqxktz0RguDV2TuVeQCq/TZC3TvCc53g5A==" crossorigin="anonymous" src="/assets/1601b3-c3ac35d889d512a3ad07f20db04162a482952e354dacdf938b84da9371a57191e2fc61b405fd4fa055404592c52dcd656b00ccd61cf7e81ac98da0d15c132258.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/attatchment.IFDb2U-6147b775e1761b68765ef02ff4df93ad5b99747670194d65e019068ddbadafc254032a06ae53ce37629e299328b368ab05d30f1439f6fa23d916b0e6b9ae1256.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-YUe3deF2G2h2XvAv9N+TrVuZdHZwGU1l4BkGjdutr8JUAyoGrlPON2KeKZMos2irBdMPFDn2+iPZFrDmua4SVg==" crossorigin="anonymous" src="/assets/c021f0-edefce7d942afe5a0aca3c0c4f82fa2217d03f1903c9d5c2609cf1ac6d99a02a7940986c1539c8f7078d7a50e7bc26c6cb9a282060565c89b77744a4cdf71735.webp" />
+        </a>
+      </div>
+    
+  
+    
+      <div>
+        <a href="/assets/images/oif_summit2022/gallery/ima17523978674256747059-c940b2006a325af01d1d984664a04c52d9c79dbe87c2627eb83adfa92c194a0ce273b5e914eaf49c4e65e423a1f3a843b7e138b9d9fd293cf39fcd2d2aed16dd.jpg">
+          <img class="card-img-top rounded" alt="Open Infra Summit 2022 Gallery" integrity="sha512-yUCyAGoyWvAdHZhGZKBMUtnHnb6HwmJ+uDrfqSwZSgzic7XpFOr0nE5l5COh86hDt+E4udn9KTzzn80tKu0W3Q==" crossorigin="anonymous" src="/assets/c5a1b2-2243b1678ea666b519a8f53c805bb4000aee7e56da871f9226282adff4ab633fc3afa0590c44bdf30ec148607f224d1d2b242a24c0519d58143736b59dec64a4.webp" />
+        </a>
+      </div>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+</div>]]></content><author><name>[&quot;Eduard Itrich&quot;, &quot;Felix Kronlage-Dammers&quot;]</name></author><summary type="html"><![CDATA[Two weeks after this year’s OpenInfra Summit in Berlin we are still overwhelmed by the impressions of those three days at the Berlin Conference Center (bcc). With our reference implementation being built upon OpenStack the OpenInfra Summit is the major conference for us - obviously we brought our share of talks and contributions to the table as well.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/oif_summit2022/gallery/attatchment.IFDb2U.jpeg" /><media:content medium="image" url="https://scs.community/oif_summit2022/gallery/attatchment.IFDb2U.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SCS at the OpenInfra Summit 2022 – Schedule and Community Gathering</title><link href="https://scs.community/2022/06/02/scs-at-oifsummit2022/" rel="alternate" type="text/html" title="SCS at the OpenInfra Summit 2022 – Schedule and Community Gathering" /><published>2022-06-02T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/06/02/scs-at-oifsummit2022</id><content type="html" xml:base="https://scs.community/2022/06/02/scs-at-oifsummit2022/"><![CDATA[<p>We’re just one week ahead of the <a href="https://openinfra.dev/summit/">OpenInfra Summit 2022</a>
+and we’re thrilled to meet you all on-site again. This post is to inform you about
+our activities at this truly important and exciting event for our community. Numerous
+members will be present with various talks and sessions throughout all three days.
+We have collected all contributions of our community below<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> and we hope to see you
+at one or the other presentation.</p>
+
+<h2 id="schedule">Schedule</h2>
+
+<div class="container my-4">
+  <!-- Nav tabs -->
+  <ul class="schedule-nav nav nav-pills nav-justified" id="schedule-tab" role="tablist">
+    <li class="nav-item me-2">
+      <a class="nav-link active" id="tab-day-1" data-bs-toggle="tab" href="#day-1" role="tab" aria-controls="day-1" aria-selected="true">
+        <span class="heading">Day 1</span>
+        <span class="meta d-none d-lg-block">(Tuesday, June 7)</span>
+      </a>
+    </li>
+    <li class="nav-item me-2">
+      <a class="nav-link" id="tab-day-2" data-bs-toggle="tab" href="#day-2" role="tab" aria-controls="day-2" aria-selected="false">
+        <span class="heading">Day 2</span>
+        <span class="meta d-none d-lg-block">(Wednesday, June 8)</span>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" id="tab-day-3" data-bs-toggle="tab" href="#day-3" role="tab" aria-controls="day-3" aria-selected="false">
+        <span class="heading">Day 3</span>
+        <span class="meta d-none d-lg-block">(Thursday, June 9)</span>
+      </a>
+    </li>
+  </ul>
+  <!-- Tab panes -->
+	<div class="schedule-tab-content tab-content mt-5">
+  
+		<div class="tab-pane fade show active" id="day-1" role="tabpanel" aria-labelledby="day-1">
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">10:10 – 10:17</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/d7d8b4-4ecbcc45561ae0d7d25fb985149483d9b5a0be2086f57d499cd0e552652fa8886c00f4c1d9f27f7069364190b898c6c32e5d60b90519c401f2652261d300c1b4.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Dr. Franziska Brantner</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">The Intersection of Open Source Technologies and Digital Sovereignty<a data-tab-destination="day-1" href="#session-1" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - B - B08</div>
+            <div class="desc pb-2">Digital sovereignty is a key priority for the German Government and the Ministry for Economic Affairs and Climate Action (BMWK). In her keynote, Franziska Brantner will elaborate on its strategic and political relevance and will shed light on the concrete activities of the BMWK to strengthen sovereignty with a special focus on open source. A followup Q&amp;A with Frederic Lardinois will shed more light on the role open source plays in tackling digital sovereignty. 
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">14:50 – 15:20</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/5aae1d-0d153e51dd9b37b61242561129a5b0b5d8ccdb0788abd5813f13ba3ae6bc41b6d88999b6ff8c4ed4bcb24a695263e659d6dc6ba0182193a8fa75a750dad7b991.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Eduard Itrich</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Digital sovereignty: Why open infrastructure matters<a data-tab-destination="day-1" href="#session-2" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - B - B08</div>
+            <div class="desc pb-2">Hardly any other term has been redefined and reframed so frequently in public discussions in recent years as “digital sovereignty”. Interpretations range from using Open Source Software down to local franchise agreements with proprietary cloud providers applying the term as a boilerplate.
+This talk will demystify the term “digital sovereignty” and outline why it is not just enough to be sovereign on a higher container layer or create local spin-offs from proprietary cloud service providers. Together we will look at different criteria for digital sovereignty and realize that closed-source “sovereign” cloud offerings may not bring as much sovereignty as promised.
+Open infrastructure matters and is key to independence, trust and innovation. In order to achieve true digital sovereignty, we need open source, operating knowledge and vital open communities.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">16:00 – 16:40</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg>
+    <mask id="cut-three-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut3-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut3-3">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="-10" y="-5" height="65" width="65" xlink:href="/assets/07c113-31d85f1528cb72325487cddbf064e60d22a125310f65befa3c7ed3b12e07f3f1bd9375acdc4d2d7750723e9fc7fdf8bb4dbc26d1fba54b6a2a93bb90c9556174.webp" mask="url(#cut3-1)"></image>
+    <image x="30" y="-5" height="65" width="65" xlink:href="/assets/d4cc61-a89d2499623b55a42a03fe42980fa821f0992b3d10eee5f4457d3487d335a9fef340319e5e7d066cee2a6440953e6d4fdb67fc3540b9c91842cff284f0d6a443.webp" mask="url(#cut3-2)"></image>
+    <image x="5" y="30" height="70" width="70" xlink:href="/assets/0a8885-9cd2fe38d25c903f7d206c5d77b353861ab72cf0ca72f3359eebca2d3519aef69580689d26cd539aebbb428d8ebbebd93a56185a4347c1a90d31d8bffa9a6973.webp" mask="url(#cut3-3)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Marvin Titus<br />Jonas Schäfer<br />Felix Huettner</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Fearless automation: Deploying OpenStack on top of Kubernetes with YAOOK, How a retailer became a Cloud Provider<a data-tab-destination="day-1" href="#session-3" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - B - B08</div>
+            <div class="desc pb-2">STACKIT is part of the IT organization within the Schwarz Group, the largest European retail company. This includes Lidl and Kaufland, Schwarz Produktion in food production and PreZero in environmental services.
+In cooperation with Cloud and Heat the Schwarz Group created the Lifecycle Management Tool for OpenStack "Yaook" (Yet another openstack on kubernetes). Since 2021 it is available as opensource. The Yaook project aims to be the next step in automating deployment and operation of OpenStack clouds. In its core, it relies on Kubernetes operators, small pieces of code which compare observed and intended state in order to determine actions to converge the system. This idea can, however, be taken to a next level: What if there was a control loop which managed an entire OpenStack deployment? Yaook provides just that. Beyond the initial installation, it supports "Day 2 operation" tasks, such as upgrades and node maintenance / reinstallation. At the same time, Yaook knows its limits and will wait for human operator input in cases of potential loss of data or availability. That way, Yaook makes for a resilient and reliable life-cycle management of OpenStack clouds.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div> 
+  
+		<div class="tab-pane fade " id="day-2" role="tabpanel" aria-labelledby="day-2">
+      
+      
+      
+      
+      
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">11:20 – 11:35</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/5aae1d-0d153e51dd9b37b61242561129a5b0b5d8ccdb0788abd5813f13ba3ae6bc41b6d88999b6ff8c4ed4bcb24a695263e659d6dc6ba0182193a8fa75a750dad7b991.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Eduard Itrich</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Digital sovereignty: Why open infrastructure matters<a data-tab-destination="day-2" href="#session-4" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - OpenInfra Stage</div>
+            <div class="desc pb-2">Hardly any other term has been redefined and reframed so frequently in public discussions in recent years as “digital sovereignty”. Interpretations range from using Open Source Software down to local franchise agreements with proprietary cloud providers applying the term as a boilerplate.
+This talk will demystify the term “digital sovereignty” and outline why it is not just enough to be sovereign on a higher container layer or create local spin-offs from proprietary cloud service providers. Together we will look at different criteria for digital sovereignty and realize that closed-source “sovereign” cloud offerings may not bring as much sovereignty as promised.
+Open infrastructure matters and is key to independence, trust and innovation. In order to achieve true digital sovereignty, we need open source, operating knowledge and vital open communities.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">14:15 – 14:30</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/7bef0d-d78ad0118f9991304e777e3abcfd8df1bdbf73d3c957d75c1665c691727bbe4fcf980ad96de7dbdc01121570ccba2f95ff54a0506980b254274a92139284d4de.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Christian Berendt</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">How to create beautiful cloud-native landscapes?<a data-tab-destination="day-2" href="#session-5" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - OpenInfra Stage</div>
+            <div class="desc pb-2">Cloud computing with Kubernetes has evolved to a widely accepted de-facto standard without vendor lock-in for creating scalable and flexible  applications for critical business systems of record. 23KE, based on the open source project Gardener, is a production proven open-source Kubernetes-as-a-Service solution to fully automate and operate a global, multi-cloud, and hybrid Kubernetes service. It often serves as a fundamental gateway platform for important cloud services.
+We will demonstrate how we can enable the Gaia-X vision of an open, independent multi provider and cloud-edge continuum and how we enabled City Cloud to do Managed Kubernetes right.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">14:50 – 15:20</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <mask id="cut-two-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+    </mask>
+    <mask id="cut2-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut2-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="-20" y="0" height="80" width="80" xlink:href="/assets/a75ac3-9f8be8cc33736f60cef97b709a096937121338e312e9e3ee13933b9a583c30435edcd60f7154a6d23891a4c62230e2f40cdbe49f20b0da944423849e9f37c883.webp" mask="url(#cut2-1)"></image>
+    <image x="20" y="0" height="80" width="80" xlink:href="/assets/676d83-98d1dc7f8d847e6def81a0333798ce53a5e64a706ed7b5d3596a3fff3199c2aba67c5991498feb8dc8b78c1c47e3ba2371adf06e1abb9b1d3fe3bc9f2e5f7683.webp" mask="url(#cut2-2)"></image>  
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Kurt Garloff<br />Felix Kronlage-Dammers</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">An Open Operations concept<a data-tab-destination="day-2" href="#session-6" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - B - B05</div>
+            <div class="desc pb-2">Open Infrastructure technology has become increasingly mature. Nevertheless, high quality management and operations of open platforms continues to require DevOps teams with significant skills. The Sovereign Cloud Stack project has been created with the goal to significantly lower the bar.
+While the integration of a standardized operational stack helps the platform operations teams, it is only an important first step.
+The next step is to create strong communities that share operational practices and make them openly available. Documenting best practices, publishing the little tools to do cleanup jobs or the setup of dashboards that can be used for capacity management are all important contributions.
+Being transparent about bugs, incidents, security responses may sound disturbing to traditional Ops teams at first -- yet it is key to build up experience. It also helps to create trust with users, especially when incidents do occur.
+This is the core of the Open Operations concept.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">16:00 – 16:30</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg>
+    <mask id="cut-three-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut3-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut3-3">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="-10" y="-5" height="65" width="65" xlink:href="/assets/a75ac3-9f8be8cc33736f60cef97b709a096937121338e312e9e3ee13933b9a583c30435edcd60f7154a6d23891a4c62230e2f40cdbe49f20b0da944423849e9f37c883.webp" mask="url(#cut3-1)"></image>
+    <image x="30" y="-5" height="65" width="65" xlink:href="/assets/676d83-98d1dc7f8d847e6def81a0333798ce53a5e64a706ed7b5d3596a3fff3199c2aba67c5991498feb8dc8b78c1c47e3ba2371adf06e1abb9b1d3fe3bc9f2e5f7683.webp" mask="url(#cut3-2)"></image>
+    <image x="5" y="30" height="70" width="70" xlink:href="/assets/7bef0d-d78ad0118f9991304e777e3abcfd8df1bdbf73d3c957d75c1665c691727bbe4fcf980ad96de7dbdc01121570ccba2f95ff54a0506980b254274a92139284d4de.webp" mask="url(#cut3-3)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Kurt Garloff<br />Christian Berendt<br />Felix Kronlage-Dammers</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Forum on Loadbalancer-as-a-Service - fostering Octavia and taking LBaaS to a next Level<a data-tab-destination="day-2" href="#session-7" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - A05</div>
+            <div class="desc pb-2">As part of the collaboration within the Sovereign Cloud Stack project the topic of Loadbalancer-as-a-Service has grown interest. Especially in regard to Octavia and its further development as well as topics such a Multi-Region / geo-redundant loadbalancing. Discussion arose around the future development of octavia and wether the current path being taken is the one that serves operators of OpenStack based clouds best.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">16:40 – 17:10</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/7bef0d-d78ad0118f9991304e777e3abcfd8df1bdbf73d3c957d75c1665c691727bbe4fcf980ad96de7dbdc01121570ccba2f95ff54a0506980b254274a92139284d4de.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Christian Berendt</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Intent-based holistic data center management<a data-tab-destination="day-2" href="#session-8" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - OpenInfra Stage</div>
+            <div class="desc pb-2">OpenStack is great for delivering large amounts of resources via APIs "as a service“. However, when it comes to enrolling and managing physical resources themselves, e.g. Switches or PDUs, or even more generally the entire data center, OpenStack itself reaches its limits. Is the IPAM the source of truth or OpenStack itself? How is the reconciliation done? Who approves changes there? How can annomalies be found?
+An intent-based holistic data center management approach approach allows a high abstraction of the underlying configurations and control.
+For example, it is thus possible to populate a pool of physical servers first with OpenStack. If the requirement changes in the future, a part can be removed from this pool of resources and populated with a completely independent workload, for example a Gardener on Metal.
+In this talk we will present our open source based approach (that is  available as open source) with Netbox, Git, Python, Ansible and OpenStack Ironic in detail.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">17:20 – 17:40</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg>
+    <mask id="cut-four-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut4-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut4-3">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut4-4">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="0" y="0" height="40" width="40" xlink:href="/assets/a75ac3-9f8be8cc33736f60cef97b709a096937121338e312e9e3ee13933b9a583c30435edcd60f7154a6d23891a4c62230e2f40cdbe49f20b0da944423849e9f37c883.webp" mask="url(#cut4-1)"></image>
+    <image x="40" y="0" height="40" width="40" xlink:href="/assets/bd882c-e57360fd1507e6d9a271319d0317cc65c050ecb04a7b5ceb67be5cfdf8efc8cdd490bb8650be4137875717d58ab5e023ca2568ca49b14719b718aea08e5e4b14.webp" mask="url(#cut4-2)"></image>
+    <image x="40" y="40" height="40" width="40" xlink:href="/assets/eaa892-b14ff30a22c6f2da2cd610b89d70eef1c6e46f2ce073e3791379348fc03d903c2451b7811c20307945cdc67bba42c08fbc27b29579b32eae0f8518fd7c578887.webp" mask="url(#cut4-3)"></image>
+    <image x="0" y="40" height="40" width="40" xlink:href="/assets/676d83-98d1dc7f8d847e6def81a0333798ce53a5e64a706ed7b5d3596a3fff3199c2aba67c5991498feb8dc8b78c1c47e3ba2371adf06e1abb9b1d3fe3bc9f2e5f7683.webp" mask="url(#cut4-4)"></image>
+  </svg> 
+
+</div></div>
+                <div class="name mt-2">Kurt Garloff<br />Thierry Carrez<br />Sebastian Wenner<br />Felix Kronlage-Dammers<br />Nils Magnus</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Sovereign OpenStack<a data-tab-destination="day-2" href="#session-9" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - A06</div>
+            <div class="desc pb-2">There's a lot of talk about the Gaia-X project and the associated principle of sovereignty in Europe recently. There are even reference implementations based on OpenStack. However, they are not the same. We'd like to have a panel discussion with stakeholders to discuss topics like strategic directions, focus, data privacy, and security features.
+<p style="height:70px;"></p>
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">17:20 – 17:40</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/90c34a-cabbc1c9e6b5698b6d4ca912d3602ec4114d5602d549068802782164c047542a80f45cb4fab0cb6b390811bcdd4983803ca00d45c7d96278f6230f6eaf096b52.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">John Garbutt</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Nova Compute REST API History<a data-tab-destination="day-2" href="#session-10" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - B - B05</div>
+            <div class="desc pb-2">Have you ever wondered why the first version of Nova's API is called v2? And what is the point of microversions anyway? What happened to that v3 Compute API? Why don't you have any Beta APIs? What happened to the EC2 API? Why are those folks from Rackspace so touchy about HTTP 500 errors? How were all these decisions made?
+The history of the Nova API is really a history of the community discussions and people that shaped its direction. Back when I first started working with OpenStack Bexar and Citrix XenServer, things were somewhat different to today. We used euca2ools to start VMs. At Rackspace public cloud I spent some time worrying about HTTP 500 errors. At StackHPC I have spent time working with many different people using OpenStack APIs and they are frequently interested in the history of the OpenStack Compute API. Lets take a deep look at the history of a few API quirks and lessons I learnt about Open Development.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">19:00 – ...?</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/5aae1d-0d153e51dd9b37b61242561129a5b0b5d8ccdb0788abd5813f13ba3ae6bc41b6d88999b6ff8c4ed4bcb24a695263e659d6dc6ba0182193a8fa75a750dad7b991.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2"></div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Community Meetup<a data-tab-destination="day-2" href="#session-11" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>c-base, Rungestraße 20, 10179 Berlin</div>
+            <div class="desc pb-2">Let's socialize! See below for more information on our community meetup alongside the OIF Summit 2022.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div> 
+  
+		<div class="tab-pane fade " id="day-3" role="tabpanel" aria-labelledby="day-3">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">09:40 – 10:10</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg>
+    <mask id="cut-four-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut4-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut4-3">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut4-4">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="0" y="0" height="40" width="40" xlink:href="/assets/7df81d-df76c28bf5dfd825133285ce512e568c1d92b73bfe773d95fa4f9473de8dde4c25769a8ad09bcaad9c1dd9a6a6f2279c24560de73f83b594fd78ff2f711b0575.webp" mask="url(#cut4-1)"></image>
+    <image x="40" y="0" height="40" width="40" xlink:href="/assets/676d83-98d1dc7f8d847e6def81a0333798ce53a5e64a706ed7b5d3596a3fff3199c2aba67c5991498feb8dc8b78c1c47e3ba2371adf06e1abb9b1d3fe3bc9f2e5f7683.webp" mask="url(#cut4-2)"></image>
+    <image x="40" y="40" height="40" width="40" xlink:href="/assets/a75ac3-9f8be8cc33736f60cef97b709a096937121338e312e9e3ee13933b9a583c30435edcd60f7154a6d23891a4c62230e2f40cdbe49f20b0da944423849e9f37c883.webp" mask="url(#cut4-3)"></image>
+    <image x="0" y="40" height="40" width="40" xlink:href="/assets/a62e88-ba5f52a10459441d6919120559de09102ae763599f6b94af50b67aa6877086a69c37b22fe1d83bf382d3ae92a14af6eeda9bd52b587e409cea213853ac20caf1.webp" mask="url(#cut4-4)"></image>
+  </svg> 
+
+</div></div>
+                <div class="name mt-2">Marcel Hild<br />Felix Kronlage-Dammers<br />Kurt Garloff<br />Karsten Wade</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Open Operations: the Fifth Open paradigm<a data-tab-destination="day-3" href="#session-12" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - A05</div>
+            <div class="desc pb-2">For years the Four Opens accompanied us as we shared playbooks &amp; config management, while ignoring what is seen as too-secret or too-hard to Open: operations.
+Are you interested in an all-open source hybrid cloud? Do you want a continuous environment for extended workload testing &amp; AIOps modeling beyond CI/CD? Do you care for transparency of operation processes to learn from others? Are you afraid of opening up your operations? Or are you convinced this is the way modern infrastructure can run better? 
+The Operate First project has Open operations in our community cloud, bringing together open source development, AIOps, &amp; SRE practices into a GitOps-driven prototype environment.
+The SCS project is propagating the concept of Open Operations alongside the Four Opens as a Fifth paradigm to build better &amp; more resilient infrastructure. 
+Let’s start the broader discussion about leaving the Age of Secret Sauce &amp; moving toward Open Operations - the benefits, hurdles, worries, &amp; solutions.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">11:50 – 12:20</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <mask id="cut-two-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+    </mask>
+    <mask id="cut2-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut2-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="-20" y="0" height="80" width="80" xlink:href="/assets/676d83-98d1dc7f8d847e6def81a0333798ce53a5e64a706ed7b5d3596a3fff3199c2aba67c5991498feb8dc8b78c1c47e3ba2371adf06e1abb9b1d3fe3bc9f2e5f7683.webp" mask="url(#cut2-1)"></image>
+    <image x="20" y="0" height="80" width="80" xlink:href="/assets/18284f-83768c27adc172e6bb124f38b0e191a0513109d82d31eae978e45e13d9fd02becf5b906b15c1937ad18e520052e29c7f8b14930f985cd8378647a65d50b86301.webp" mask="url(#cut2-2)"></image>  
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Felix Kronlage-Dammers<br />Mathias Fechner</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Observability in OpenStack: - Learnings and building blocks from the SIG Monitoring at SCS<a data-tab-destination="day-3" href="#session-13" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - B - B08</div>
+            <div class="desc pb-2">The Sovereign Cloud Stack (SCS) is built upon the shoulders of giants: With proven technology such
+as OpenStack and Kubernetes the SCS project is building a modular software stack. SCS is much more
+than just another cloud stack - much rather SCS gathers an open community to join forces and define
+common standards - while also providing a reference implementation.
+As part of the projects Special Interest Group Monitoring involved CSPs and community members looked
+at their needs for observability within OpenStack as well as other components and derived monitoring
+building blocks that feature alerting, metrics collection as well as logging. The talk will give
+an overview of the outcomes but will also highlight parts of the journey within the SIG and will
+give insights to understand the rationale behind design decisions.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">14:40 – 15:10</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <image x="0" y="0" height="80" width="80" xlink:href="/assets/7bef0d-d78ad0118f9991304e777e3abcfd8df1bdbf73d3c957d75c1665c691727bbe4fcf980ad96de7dbdc01121570ccba2f95ff54a0506980b254274a92139284d4de.webp" mask="url(#cut1-round)"></image>
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Christian Berendt</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">Deprivileging of Service Accounts Between Individual OpenStack Services<a data-tab-destination="day-3" href="#session-14" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - A05</div>
+            <div class="desc pb-2">This problem affects all OpenStack operators. We would like to briefly outline the problem itself in order to get a commitment from the community that the problem needs to be solved.
+</div>
+          </div><!--//content-->
+        </div>
+      
+      
+      
+        <div class="item item-talk">
+          <div class="meta">
+            <h4 class="time">14:40 – 15:50</h4>
+              <div class="profile mt-3">
+                <div class="d-flex justify-content-center"><div style="max-width: 80px; max-height: 80px;" class="overflow-hidden ratio ratio-1x1">
+<svg>
+  <mask id="cut1-square">
+    <rect width="80" height="80" fill="white" />
+  </mask>
+  <mask id="cut1-round">
+      <circle cx="40" cy="40" r="40" fill="white" />
+  </mask>
+  <mask id="cut2-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut2-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,60 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,60 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut3-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,60 40,40 0,60" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-1">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="40,0 80,0 80,80 0,80 0,40 40,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-2">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 40,0 40,40 80,40 80,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-3">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,40 40,40 40,80 0,80" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+  <mask id="cut4-4">
+    <circle cx="40" cy="40" r="40" fill="white" />
+    <polygon points="0,0 80,0 80,80 40,80 40,40 0,40" fill="black" stroke="black" stroke-width="2" />
+  </mask>
+</svg>
+
+  <svg height="80" width="80">
+    <mask id="cut-two-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+    </mask>
+    <mask id="cut2-1">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <rect x="40" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <mask id="cut2-2">
+      <circle cx="40" cy="40" r="40" fill="white" />
+      <rect x="0" y="0" width="40" height="80" fill="black" stroke="black" stroke-width="2" />
+    </mask>
+    <image x="-20" y="0" height="80" width="80" xlink:href="/assets/32ebab-5bf974486bae12aa9c1531c10f91f8e452633858f3e24c02a53727f23ec8a389c701017b2317243086c251d35769f2d7c379368e409afdb37894c8864210d007.webp" mask="url(#cut2-1)"></image>
+    <image x="20" y="0" height="80" width="80" xlink:href="/assets/52d8eb-9a10bb3ad4cc5a85f86ecc6eaae0170a250a364cb3508f841c9a3a8bf8b4527aa8b4c1ec1d05825772f0901046e9212ffb2753dcea25084ef70bad12f739f30f.webp" mask="url(#cut2-2)"></image>  
+  </svg>
+
+</div></div>
+                <div class="name mt-2">Tobias Rydberg<br />Jimmy McArthur</div>
+              </div><!--//profile-->
+          </div><!--//meta-->
+          <div class="content">
+            <h3 class="title mb-2">The Future of the Public Cloud SIG<a data-tab-destination="day-3" href="#session-15" class="link-unstyled"><i class="fa fa-link ms-2 text-muted" aria-hidden="true" style="font-size: .7em; color: "></i></a></h3>
+            <div class="location mb-2 text-muted"><i class="fa fa-map-marker me-2" aria-hidden="true"></i>Berlin Congress Center - A - A06</div>
+            <div class="desc pb-2">What about a restart for the Public Cloud SIG? We would like to gather all of you OpenStack Public Cloud players to discuss the future of the Public Cloud SIG. What would be the mission for this group?  How can we work together to improve our engagement in OpenInfra and OpenInfra as a whole? What activities can we do to achieve this? How can we collaborate?
+Meeting in person for the first time since forever is the perfect opportunity get this discussion going and put out the direction moving forward!</div>
+          </div><!--//content-->
+        </div>
+      
+      
+    </div> 
+  
+  </div>
+  <div class="schedule-cta text-center mx-auto">
+    <a href="https://openinfra.dev/summit-schedule" class="btn btn-primary btn-lg me-md-2 d-block d-md-inline-block mb-3 mb-md-0" target="_blank">See complete Schedule</a>
+    <a href="https://www.eventbrite.com/e/openinfra-summit-berlin-2022-tickets-211374997307" class="btn btn-secondary btn-lg d-block d-md-inline-block" target="_blank">Buy Tickets</a>
+  </div>
+</div>
+
+<h2 id="community-meetup">Community Meetup</h2>
+
+<p>We’re excited to invite you to our community gathering on <strong>Wednesday, June 8</strong> (formerly known as <em>„the secret party“</em>). Let’s meet from 7 pm at the <a href="https://c-base.org">c-base e.V.</a> (Rungestraße 20, 10179 Berlin), which is about 15 min by public transport from the Berlin Congress center (if you are probably attending the OpenInfra Summit).</p>
+
+<div class="alert alert-info" role="alert">
+  <i class="fa fa-info-circle fa-lg mx-3"></i>
+  Please note that you need a valid proof of vaccination or recovery to enter the c-base. Wearing a mask during the evening is optional.
+</div>
+
+<div class="row align-items-center justify-content-center">
+
+	<div class="col-4 d-flex justify-content-center">
+  	<img alt="c-base" class="mx-auto d-block img-fluid" integrity="sha512-HezAJFgivcLJ0axlGH1H9j+4hgTZfXma88Hth0oaDv36rPC5EG4eaIPj+pB0ULAdl2Ei2UREepAJ7w1hPlgTsQ==" crossorigin="anonymous" src="/assets/420138-527750148f98d603da0a6640364b9a2af31c29c8037308eea0d2c19526faed1098423f19804e9c9c1ad2995aac51c567d59b08f8a77f9d92ae7a89af5074a86a.webp" />
+	</div>
+
+	<div class="col-4 d-flex justify-content-center">
+  	<img alt="c-base" class="mx-auto d-block img-fluid" integrity="sha512-uSAaogE477O784jShf5i+D7wE+IUvbJDgpyKpBHHI/IZTixHM8JzyZCS1mc9GZVJaOdsFLVfilSfL+xUdZHo0g==" crossorigin="anonymous" src="/assets/d5b5dc-ef031b07beab561fbcd0d7bb629071a0dd497b8f80780bc4cbf69c19d9b6f250b824c598b9dd88642cbf5d5a8e5e9c09191fd54acff559ed2f412065ce798ee0.webp" />
+	</div>
+
+	<div class="col-4 d-flex justify-content-center">
+  	<img alt="c-base" class="mx-auto d-block img-fluid" integrity="sha512-VWj7JdPmjQUhiKr24GYM/a6mibR75xVFxz0Xtu5eIRSVnesT6ZYi0Cr88PRo6/OKKvT5WccvYW4CgQJwKnbljA==" crossorigin="anonymous" src="/assets/7b2138-27c166414d7c1b49b8b32ca6e39679859845f1be2af802dfad4cf49432d65f715519d68d73061717d0b43df3e3bc3d9dd34801b0f254e5b74ec83ed5979d9940.webp" />
+	</div>
+
+</div>
+<p class="text-end text-muted fw-light"><small>Images by MeTaMiND EvoLuTioN MeTaVoLuTioN, <a href="https://creativecommons.org/licenses/by/2.0" target="_blank">CC BY 2.0</a>, via Wikimedia Commons</small></p>
+
+<div class="schedule-cta text-center mx-auto my-4">
+  <a href="geo:52.5129735,13.4201313" class="btn btn-secondary btn-lg d-block d-lg-none d-md-inline-block" target="_blank">Navigate me to the party</a>
+</div>
+
+<p>Join us for food and drinks<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>, for continuing the conversations started during the day or making plans for the next meeting. We thank our sponsors <a href="https://osism.tech">OSISM GmbH</a> und <a href="https://aitus.eu/">Aitus UG</a> for the food – they are both members of the <a href="https://osb-alliance.com">Open Source Business Alliance e.V.</a> - as well as the c-base for the great opportunity to have our social event in their space station. 😉</p>
+
+<div class="row align-items-center justify-content-center">
+	<div class="col-5 col-md-4 col-lg-3 p-3 d-flex justify-content-center">
+  	<a href="https://osism.tech" title="OSISM GmbH" target="_blank">
+  		<img alt="OSISM GmbH" class="mx-auto d-block img-fluid" integrity="sha512-9YUVN30FD6t2QBc6IOxviDbNVHRWX7RmHHRdljUSXY1G74ozKqsFZAc78HV7AfbnLRWt+VKaj6WUHksdFPfJkA==" crossorigin="anonymous" src="/assets/591bb1-70d98b25e74068e8e6e69f4e034d370c5d818cef1c2580ebba4e15ce50511f7593d826d27016254c04737703a0e5f63b9e1888f2eaecbd27e40b417c41436898.webp" />
+  	</a>
+	</div>
+  <div class="col-5 col-md-4 col-lg-3 p-5 d-flex justify-content-center">
+  	<a href="https://aitus.eu/" title="Aitus UG" target="_blank">
+  		<img alt="Aitus UG" class="mx-auto d-block img-fluid" integrity="sha512-6L+uwAXNmu8MSGdaEwLa2/t6pRFWzNcVvXB+JTrO+ffEJoEpA0+sf3b+y+U7L4yDRm5DZRLzHnfGYfVrOUP+2g==" crossorigin="anonymous" src="/assets/0b2b94-97f3f0cae63cfe53bd48d543529a548a9b9dc6bd4f7f38c86bb49c2c6c3d9506ab58297a1b2ae612cc8d1335e0e29a641374ed3aed73ffed42085fbcb1202978.webp" />
+  	</a>
+	</div>
+</div>
+
+<h2 id="contact-us">Contact us</h2>
+
+<p>If you need any further information, please contact <a href="https://scs.community/itrich">Eduard</a> or <a href="https://scs.community/hollery">Bianca</a> – they’ll be happy to help you. See you in Berlin!</p>
+
+<div class="row justify-content-center my-4">
+  <div class="col-6 col-md-4 col-lg-3 d-flex justify-content-center">
+    <div class="card" style="width: 13rem;">
+      <img class="card-img-top img-fluid" style="width: 100%; max-height: 35vh; object-fit: cover; object-position: top;" integrity="sha512-sc8YdQMFLf8x7Ke/foJciuhrpQeQu/X0zasdDyQSzgYZOFrw9PrWDRNvqP3fIfnwjooGmYNgVEmKUtOrOHss9g==" crossorigin="anonymous" src="/assets/images/employees/Itrich-b1cf187503052dff31eca7bf7e825c8ae86ba50790bbf5f4cdab1d0f2412ce0619385af0f4fad60d136fa8fddf21f9f08e8a0699836054498a52d3ab387b2cf6.jpg" />
+      <div class="card-body">
+        <p class="card-text"><i class="fa fa-phone me-3"></i><a class="link-unstyled stretched-link" href="tel:+49-30-206539-204">+49-30-206539-204</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-md-4 col-lg-3 d-flex justify-content-center">
+    <div class="card" style="width: 13rem;">
+      <img class="card-img-top img-fluid" style="width: 100%; max-height: 35vh; object-fit: cover; object-position: top;" integrity="sha512-Pb2CeJlDRFJbC0Ykofwdifz2azxBnqQL9c69NL+a0EGhpDUUps5JoM86J5SFrUtY3FXMa8fMsEoAA2xSuNg4oA==" crossorigin="anonymous" src="/assets/images/employees/Hollery-3dbd8278994344525b0b4624a1fc1d89fcf66b3c419ea40bf5cebd34bf9ad041a1a43514a6ce49a0cf3a279485ad4b58dc55cc6bc7ccb04a00036c52b8d838a0.jpg" />
+      <div class="card-body">
+        <p class="card-text"><i class="fa fa-phone me-3"></i><a class="link-unstyled stretched-link" href="tel:+49-30-206539-204">+49-30-206539-206</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript to create deep links within tab -->
+
+<script type="text/javascript">
+  $(function() {
+      openTabHash();
+      window.addEventListener("hashchange", openTabHash, false);
+  });
+  
+  function openTabHash()
+  {
+      // Javascript to enable link to tab
+      var url = document.location.toString();
+      if (url.match('#day')) {
+          $('.nav-item a[href="#'+url.split('#')[1]+'"]').tab('show') ;
+      } else if (url.match('#session')) {
+          var day = $('.item-talk .content a[href="#'+url.split('#')[1]+'"]').closest('.tab-pane').attr('id');
+          $('.nav-item a[href="#'+day+'"]').tab('show');
+          $('html, body').animate({
+            scrollTop: $('a[href="#'+url.split('#')[1]+'"]').offset().top - 65
+          }, 300);
+      }
+      
+      $('.nav-item a').on('shown.bs.tab', function (e) {
+        e.preventDefault();
+        $('html, body').animate({
+          scrollTop: $('a[href="#'+url.split('#')[1]+'"]').offset().top - 65
+        }, 300);
+      });
+      
+      $('.nav-item').click(function() {
+          if (history.pushState) {
+              history.pushState(null, null, "#" + $(' a', this).get(0).href.split('#')[1]); 
+          } else {
+              window.location.hash = "#" + $(' a', this).get(0).href.split('#')[1];
+          }
+      })
+    }
+</script>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>The schedule is adapted from the great work of <a href="http://themes.3rdwavemedia.com/">Xiaoying Riley</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Please note that we cannot cover the beverage. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>[&quot;Eduard Itrich&quot;, &quot;Bianca Hollery&quot;]</name></author><summary type="html"><![CDATA[We’re just one week ahead of the OpenInfra Summit 2022 and we’re thrilled to meet you all on-site again. This post is to inform you about our activities at this truly important and exciting event for our community. Numerous members will be present with various talks and sessions throughout all three days. We have collected all contributions of our community below1 and we hope to see you at one or the other presentation. The schedule is adapted from the great work of Xiaoying Riley. &#8617;]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/oif_summit2022/countdown.jpg" /><media:content medium="image" url="https://scs.community/oif_summit2022/countdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gaia-X Erprobungsphase startet für GXFS und SCS</title><link href="https://scs.community/2022/06/01/gxfs-scs/" rel="alternate" type="text/html" title="Gaia-X Erprobungsphase startet für GXFS und SCS" /><published>2022-06-01T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/06/01/gxfs-scs</id><content type="html" xml:base="https://scs.community/2022/06/01/gxfs-scs/"><![CDATA[<h2 id="sovereign-cloud-stack-und-gaia-x-föderationsdienste-bilden-den-open-source-werkzeugkasten-für-gaia-x">Sovereign Cloud Stack und Gaia-X Föderationsdienste bilden den Open-Source-Werkzeugkasten für Gaia-X</h2>
+
+<p>Köln/Berlin – 01. Juni 2022 – Die beiden durch das Bundesministerium für Wirtschaft und Klimaschutz geförderten Gaia-X-Projekte <a href="https://scs.community/">Sovereign Cloud Stack</a> (SCS)
+und <a href="https://gxfs.de/">Gaia-X Federation Services</a> (GXFS) werden in der nun beginnenden Implementierungsphase gemeinsam auf offener Infrastruktur erprobt. 
+Ziel der beiden im vergangenen Jahr gestarteten Fördervorhaben ist die Schaffung eines Open-Source-basierten Werkzeugkastens für eine souveräne,
+standardisierte und föderierbare Cloud-Infrastruktur. Dieser technische Unterbau stellt einen wichtigen Beitrag Deutschlands zum gesamteuropäischen
+Vorhaben Gaia-X dar und befähigt Organisationen, Teil des neuen digitalen Ökosystems zu werden.</p>
+
+<p>“Mit dem Betrieb der Gaia-X Förderationsdienste auf einer bereits produktiv genutzten Implementierung des Sovereign Cloud Stack sind wir dem
+Ziel von Gaia-X und der beiden Fördervorhaben einen entscheidenden Schritt näher gekommen. Der so entstandene Open-Source-Werkzeugkasten für
+eine souveräne Dateninfrastruktur schafft eine wichtige Grundvoraussetzung für die Innovationsfähigkeit von Wirtschaft und Verwaltung in der
+Cloud”, so Peter Ganten, Vorstandsvorsitzender der Open Source Business Alliance e.V.</p>
+
+<p>“Mit der Abstimmung und konkreten Umsetzung der Standards in produktiv nutzbare Software schaffen die beiden Projekte konkreten Nutzen für
+die Anwender und bauen Strukturen und eine offene Community auf, die weitere Fortschritte sicherstellen können.” freut sich Kurt Garloff,
+technischer Leiter des SCS Projekts bei der OSB Alliance.</p>
+
+<p>Ziel der Gaia-X Federation Services ist es, das Gaia-X Ökosystem operabel zu machen. Die Services aus dem GXFS Werkzeugkasten werden zurzeit auf
+Basis einer Referenzimplementierung des SCS entwickelt. Hierfür werden den GXFS Implementierungspartnern Kubernetes Cluster aufbauend auf dem
+entstehenden SCS-Standard bereitgestellt und auf souveräner Infrastruktur betrieben.</p>
+
+<p>“Gemeinsam haben wir die Grundlagen für Gaia-X und damit für ein offenes, transparentes und sicheres digitales Ökosystem geschaffen“, sagt
+Andreas Weiss, Projektleiter GXFS und Geschäftsbereichsleiter digitale Geschäftsmodelle im eco – Verband der Internetwirtschaft e. V.. „Wir
+verfügen jetzt über das technische Fundament, um Daten und Services souverän über sektorspezifische Datenräume hinweg zu nutzen – und so die
+Souveränität der europäischen Digitalwirtschaft zu stärken.”</p>
+
+<p><strong>Besucher der Hannover-Messe können Gaia-X kennen lernen in Halle 8, Stand 24.</strong></p>
+
+<h2 id="über-die-gaia-x-federation-services">Über die Gaia-X Federation Services</h2>
+<p>Innovation durch digitale Souveränität – das ist das Ziel von Gaia-X. Erreicht wird dies durch den Aufbau eines Ökosystems, in dem Daten in einer
+vertrauenswürdigen Umgebung zur Verfügung gestellt, gesammelt und geteilt werden, wobei Nutzer stets die Hoheit über ihre Daten behalten. Es entsteht
+keine Cloud, sondern ein föderiertes System, das viele Anbieter und Nutzer von Cloud-Diensten miteinander verbindet.</p>
+
+<p>Die Gaia-X Federation Services (GXFS) stellen die technischen Mindestanforderungen dar, die für den Aufbau und den Betrieb eines cloudbasierten,
+selbstverwalteten Dateninfrastruktur-Ökosystems erforderlich sind. Auf der Grundlage der technischen Spezifikationen werden Dienste entwickelt,
+die auf Open-Source-Code basieren. Sie werden dann von der Gaia-X Community zu operativen Diensten weiterentwickelt und kontinuierlich verbessert. 
+Unter Federführung des eco wird das GXFS-DE-Projekt vom deutschen Bundesministerium für Wirtschaft und Klimaschutz (BMWK) gefördert und steht im
+engen Austausch mit der Gaia-X Association for Data and Cloud mit Sitz in Brüssel und dem französischen Förderprojekt GXFS-FR.</p>
+
+<h2 id="über-den-eco---verband-der-internetwirtschaft-ev">Über den eco - Verband der Internetwirtschaft e.V.</h2>
+<p>Mit über 1.000 Mitgliedsunternehmen ist eco der größte Verband der Internetwirtschaft in Europa. Seit 1995 gestaltet eco maßgeblich das Internet,
+fördert neue Technologien, schafft Rahmenbedingungen und vertritt die Interessen seiner Mitglieder gegenüber der Politik und in internationalen
+Gremien. Die Zuverlässigkeit und Stärkung der digitalen Infrastruktur, IT-Sicherheit und Vertrauen sowie eine ethisch orientierte Digitalisierung
+bilden Schwerpunkte der Verbandsarbeit. eco setzt sich für ein freies, technikneutrales und leistungsstarkes Internet ein.</p>
+
+<h2 id="über-das-sovereign-cloud-stack-projekt">Über das Sovereign Cloud Stack Projekt</h2>
+<p>Der Sovereign Cloud Stack (SCS) wurde 2019 ins Leben gerufen und zunächst mit Mitteln der Bundesagentur für Sprunginnovationen SPRIND finanziert.
+Seit Juli 2021 wird SCS durch das Bundesministerium für Wirtschaft und Klimaschutz (BMWK, früher BMWi) gefördert und ist bei der Open Source Business
+Alliance – Bundesverband für digitale Souveränität e.V. beheimatet. Inzwischen trägt ein wachsendes Ökosystem aus über 20 Unternehmen zum Erfolg des
+Sovereign Cloud Stack bei. Gemeinsam werden offene Standards für eine moderne, föderierbare Open-Source-Cloud- und Container-Plattform definiert und
+in einem offenen Entwicklungsprozess durch bewährte Open-Source-Komponenten eine vollständige und modulare Referenzimplementierung bereitgestellt.
+Gleichzeitig werden Betriebswissen und -praktiken transparent
+zugänglich gemacht, um die Schwierigkeiten beim Betrieb von qualitativ hochwertigen und sicheren Cloud-Diensten auf ein Minimum zu reduzieren.
+Bereits zwei, demnächst drei Anbieter nutzen die SCS-Technologie bereits produktiv für den Betrieb souveräner und DSGVO-konformer Public-Cloud-Angebote.
+Weitere Angebote befinden sich in der Entwicklungs- und Erprobungsphase.</p>
+
+<h2 id="über-die-open-source-business-alliance---bundesverband-für-digitale-souveränität-ev-osb-alliance">Über die Open Source Business Alliance - Bundesverband für digitale Souveränität e.V. (OSB Alliance)</h2>
+<p>Die Open Source Business Alliance (OSB Alliance) ist der Verband der Open Source Industrie in Deutschland. Dabei vertreten wir über 170
+Mitgliedsunternehmen, die in Deutschland ca. 10.000 Mitarbeiter beschäftigen und jährlich mehr als 1,7 Milliarden Euro erwirtschaften. Gemeinsam
+mit wissenschaftlichen Einrichtungen und Anwenderorganisationen setzen wir uns dafür ein, die zentrale Bedeutung von Open Source Software und offenen
+Standards für einen erfolgreichen digitalen Wandel im öffentlichen Bewusstsein nachhaltig zu verankern. Dieser digitale Wandel soll Unternehmen, Staat
+und Gesellschaft gleicherweise zugutekommen. Zudem sollen Innovationen im Bereich Open Source vorangetrieben werden. Unser Ziel ist es, Open Source als
+Standard in der öffentlichen Beschaffung und bei der Forschungs- und Wirtschaftsförderung zu etablieren. Denn Open Source und offene Standards sind
+zwingende Grundlagen für digitale Souveränität, Innovationsfähigkeit und Sicherheit im digitalen Wandel und damit die Antwort auf eine der größten
+Herausforderungen unserer Zeit.</p>]]></content><author><name>[&quot;Open Source Business Alliance&quot;, &quot;eco - Verband der Internetwirtschaft e.V.&quot;]</name></author><summary type="html"><![CDATA[Sovereign Cloud Stack und Gaia-X Föderationsdienste bilden den Open-Source-Werkzeugkasten für Gaia-X]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/foundation.jpg" /><media:content medium="image" url="https://scs.community/blog/foundation.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SCS Community Part of Cloud Expo Europe in Frankfurt</title><link href="https://scs.community/2022/05/13/syself-jkemper-cee2022/" rel="alternate" type="text/html" title="SCS Community Part of Cloud Expo Europe in Frankfurt" /><published>2022-05-13T00:00:00+00:00</published><updated>2022-08-22T13:38:46+00:00</updated><id>https://scs.community/2022/05/13/syself-jkemper-cee2022</id><content type="html" xml:base="https://scs.community/2022/05/13/syself-jkemper-cee2022/"><![CDATA[<p>Many members of SCS team and community gathered at <a href="https://www.cloudexpoeurope.de">Cloud Expo Europe</a> in Frankfurt. As my company, Syself, joined the community only a few months ago, we have not seen anybody in person before. For us, the CEE was not only about listening to interesting talks and meeting new people.</p>
+
+<p>It was also about finally talking to the other members of the SCS community in person. We have worked together a lot in the past weeks using video conferences, but seeing someone in person is a whole different thing. I am sure that many people can relate to that after more than two years of the pandemic.</p>
+
+<h2 id="team-building-in-frankfurt">Team Building in Frankfurt</h2>
+
+<p>A lot has happened in the SCS community, so there were many current and future projects to discuss. Fortunately, the expo and the evening/night program brought plenty of opportunities to talk about SCS business and even left room for personal stuff.</p>
+
+<p>In order to get to know each other better and to grow as a team, we had a really nice dinner at an Indian restaurant. Some team members spotted an Irish pub in which we went for some alcoholic and non-alcoholic drinks afterwards.</p>
+
+<h2 id="sovereign-clouds-play-a-major-role-at-cee">Sovereign Clouds Play a Major Role at CEE</h2>
+
+<p>At <a href="https://syself.com">Syself</a>, we focus on modern, European cloud infrastructure that can be managed easily by our clients. In the earlier stages of our company, we did not even know about the theoretic concept of digital sovereignty. However, the products that we build for our clients have always been fully aligned behind this concept.</p>
+
+<p>The CEE showed us that we are not at all alone. There are a lot of companies and projects that aim for European IT infrastructure where end users are truly sovereign. It is great that many of them are collaborating in projects like SCS or GAIA-X.</p>
+
+<p><a href="https://www.cloudexpoeurope.de/konferenzprogramm-2022/multi-cloud-needs-a-german-foothold-data-sovereignty-is-business-critical">Alexander Wallner</a> and Christian Berendt (<a href="https://www.cloudexpoeurope.de/konferenzprogramm-2022/session-delivered-by-b1-systems">here</a> and <a href="https://www.cloudexpoeurope.de/konferenzprogramm-2022/session-delivered-by-b1-systems-1">here</a>) from Plusserver and OSISM - the two companies who run the SCS-based commercial cloud services Pluscloud Open and Betacloud - indicated in their talks the importance of SCS in the European cloud world. They stressed the importance of open-source, of active collaboration between cloud providers, and modern IT infrastructure.</p>
+
+<div class="row my-2">
+  <div class="col-sm-6 col-12">
+    <figure class="figure mx-auto d-block">
+      <a href="/assets/images/blog/cee2022-ganten-1aca9f3d45b9a961a7961b5eca9b525f218a356a3cad94b1d9c47fe5db61539cc3154ddd470acc4fca4dab4da6ae70e453aada2644f84e67d096088f9b824ebf.jpg">
+        <img class="figure-img w-100" integrity="sha512-GsqfPUW5qWGnlhteyptSXyGKNWo8rZSx2cR/5dthU5zDFU3dRwrMT8pNq02mrnDkU6raJkT4TmfQlgiPm4JOvw==" crossorigin="anonymous" src="/assets/ae77ae-5c8069bd192d89285e950c5a97e08468cffd7e92a24505b96778e498c96f132e7cbe65171f3102603ff80341adf5470fb4d42bd94acb0a582c4d16c2b1b65872.webp" />
+      </a>
+      <figcaption class="figure-caption text-end">Kurt Garloff, CTO Sovereign Cloud Stack</figcaption>
+    </figure>
+  </div>
+  <div class="col-sm-6 col-12">
+    <figure class="figure mx-auto d-block">
+      <a href="/assets/images/blog/cee2022-garloff-493bc865eb5227e15820b29233c67853c6d6195581a33abf90aa4a05edfad4193270c8864e667b8f64cd41eeb0042b331a089fde234eab88029b9f8ee06e3604.jpg">
+        <img class="figure-img w-100" integrity="sha512-STvIZetSJ+FYILKSM8Z4U8bWGVWBozq/kKpKBe361BkycMiGTmZ7j2TNQe6wBCszGgif3iNOq4gCm5+O4G42BA==" crossorigin="anonymous" src="/assets/c6f8ea-33c8517c940c940d5ed7accc8034a3edfd56aee565bb3568139755c3a4c4faa9279663143fd9c077a56ed4dd935f6278a50ffbc6574fb6710fc6643861b396bf.webp" />
+      </a>
+      <figcaption class="figure-caption text-end">Peter Ganten, Chairman of The Board - Open Source Business Alliance e.V.</figcaption>
+    </figure>
+  </div>
+</div>
+
+<p>The talks of <a href="/assets/slides/20220511-SCS-CEE.pdf">Kurt Garloff</a> and <a href="/assets/slides/20220512-OSBA-CEE.pdf">Peter Ganten</a> from the OSBA and SCS were inspiring to me. They formulated many thoughts I had in my head already and put them down in a structured manner on their slides.</p>
+
+<p>Among others, they pointed out the different dimensions of a sovereign cloud and the importance of it. I am sure that we can use these ideas in projects of both the SCS community and Syself.</p>
+
+<h2 id="sovereign-clouds-are-not-only-a-theoretic-concept">Sovereign Clouds Are Not Only a Theoretic Concept</h2>
+
+<p>The collaboration of SCS with <a href="https://international.eco.de">Eco</a>, the association of the German Internet industry, was another major topic.</p>
+
+<p>Kurt Garloff mentioned in his speech that the cluster infrastructure for the testing and staging environments of the Gaia-X Federation Services will be on SCS infrastructure. The CEE provided room for meetings where the details of this project were discussed.</p>]]></content><author><name>[&quot;Janis Kemper&quot;]</name></author><summary type="html"><![CDATA[Many members of SCS team and community gathered at Cloud Expo Europe in Frankfurt. As my company, Syself, joined the community only a few months ago, we have not seen anybody in person before. For us, the CEE was not only about listening to interesting talks and meeting new people.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scs.community/blog/cee2022-ganten.jpeg" /><media:content medium="image" url="https://scs.community/blog/cee2022-ganten.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

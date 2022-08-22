@@ -15,6 +15,7 @@ fun RuleSet.noMITRule() = packageRule("NO_MIT") {
     licenseRule("NO_MIT", LicenseView.CONCLUDED_OR_DECLARED_AND_DETECTED) {
         require {
             -isExcluded()
+            +isMIT()
         }
         error(
             "No MIT allowed - for testing." +

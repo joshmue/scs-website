@@ -16,19 +16,21 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-java@v3
-        with:
-          distribution: 'zulu' # See 'Supported distributions' for available options
-          java-version: '17'
-      - name: Analyze licensing
-        id: ort-action
-        uses: sovereigncloudstack/ort-action@main
-        with:
-          verbosity: 'debug'
-          reporters: 'StaticHtml'
-      - uses: actions/upload-artifact@v3
-        if: always()
-        with:
-          name: licenses
-          path: ${{ steps.ort-action.outputs.results-dir }}
+    - uses: actions/checkout@v3
+    - uses: actions/cache@v3
+      with:
+        path: data-dir
+        key: data
+    - name: Analyze licensing
+      id: ort-action
+      uses: joshmue/ort-action-container@main
+      with:
+        script: |
+          ort analyze -i . -o $PWD/result
+          ort evaluate -i $PWD/result/analyzer-result.yml -o $PWD/result --rules-file test.rules.kts
+    - name: result-upload
+      uses: actions/upload-artifact@v3
+      with:
+        name: results
+        path: result
+

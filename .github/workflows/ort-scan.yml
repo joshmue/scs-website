@@ -19,9 +19,9 @@ jobs:
     - uses: actions/checkout@v3
     - uses: actions/cache@v3 # Cache will not work if ORT detects problems
       with:
-        path: data-dir
+        path: data_dir
         key: data
-    - name: Analyze licensing
+    - name: 'Licensing: Analyse, Evaluate, Report'
       id: ort-action
       uses: joshmue/ort-action-container@main
       with:
@@ -30,7 +30,7 @@ jobs:
           ort analyze -i . -o $PWD/result
           ort evaluate -i $PWD/result/analyzer-result.yml -o $PWD/result --rules-file test.rules.kts || echo "Detected issues"
           ort report -i $PWD/result/evaluation-result.yml -o $PWD/result -f StaticHtml
-    - name: result-upload
+    - name: Upload Results
       uses: actions/upload-artifact@v3
       if: always()
       with:

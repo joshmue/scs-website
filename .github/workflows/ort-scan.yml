@@ -17,7 +17,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/cache@v3
+    - uses: actions/cache@v3 # Cache will not work if ORT detects problems
       with:
         path: data-dir
         key: data
@@ -30,6 +30,7 @@ jobs:
           ort evaluate -i $PWD/result/analyzer-result.yml -o $PWD/result --rules-file test.rules.kts
     - name: result-upload
       uses: actions/upload-artifact@v3
+      if: always()
       with:
         name: results
         path: result

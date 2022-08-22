@@ -26,8 +26,10 @@ jobs:
       uses: joshmue/ort-action-container@main
       with:
         script: |
+          set -ex
           ort analyze -i . -o $PWD/result
-          ort evaluate -i $PWD/result/analyzer-result.yml -o $PWD/result --rules-file test.rules.kts
+          ort evaluate -i $PWD/result/analyzer-result.yml -o $PWD/result --rules-file test.rules.kts || echo "Detected issues"
+          ort report -i $PWD/result/evaluation-result.yml -o $PWD/result -f StaticHtml
     - name: result-upload
       uses: actions/upload-artifact@v3
       if: always()
